@@ -10,22 +10,22 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>8ec948d0-bf13-46b1-8672-ee166c42a4f3</PackageIdentityName>
     <PackageIdentityPublisher>CN=Alon</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\Admin\Desktop\20484C\Allfiles\Mod02\Democode\Lesson3\VisualStateManager\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\Admin\Desktop\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Democode\Lesson3\VisualStateManager\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType></RemoteDeploymentType>
     <PackageRegistrationPath></PackageRegistrationPath>
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\Users\Admin\Desktop\20484C\Allfiles\Mod02\Democode\Lesson3\VisualStateManager\bin\x86\Debug\AppX</LayoutDir>
+    <LayoutDir>C:\Users\Admin\Desktop\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Democode\Lesson3\VisualStateManager\bin\x86\Debug\AppX</LayoutDir>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\Admin\Desktop\20484C\Allfiles\Mod02\Democode\Lesson3\VisualStateManager\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\Admin\Desktop\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Democode\Lesson3\VisualStateManager\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\Admin\Desktop\20484C\Allfiles\Mod02\Democode\Lesson3\VisualStateManager\bin\x86\Debug\VisualStateManager.exe">
+    <AppxPackagedFile Include="C:\Users\Admin\Desktop\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Democode\Lesson3\VisualStateManager\bin\x86\Debug\VisualStateManager.exe">
       <PackagePath>entrypoint\VisualStateManager.exe</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Admin\.nuget\packages\microsoft.applicationinsights\1.0.0\lib\portable-win81+wpa81\Microsoft.ApplicationInsights.dll">
@@ -382,41 +382,41 @@
     <AppxPackagedFile Include="C:\Users\Admin\.nuget\packages\notificationsextensions\1.0.0\lib\portable-wpa81+win81\NotificationsExtensions.winmd">
       <PackagePath>NotificationsExtensions.winmd</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Admin\Desktop\20484C\Allfiles\Mod02\Democode\Lesson3\VisualStateManager\Assets\Logo.png">
+    <AppxPackagedFile Include="C:\Users\Admin\Desktop\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Democode\Lesson3\VisualStateManager\Assets\Logo.png">
       <PackagePath>Assets\Logo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Admin\Desktop\20484C\Allfiles\Mod02\Democode\Lesson3\VisualStateManager\Assets\SmallLogo.png">
+    <AppxPackagedFile Include="C:\Users\Admin\Desktop\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Democode\Lesson3\VisualStateManager\Assets\SmallLogo.png">
       <PackagePath>Assets\SmallLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Admin\Desktop\20484C\Allfiles\Mod02\Democode\Lesson3\VisualStateManager\Assets\SplashScreen.png">
+    <AppxPackagedFile Include="C:\Users\Admin\Desktop\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Democode\Lesson3\VisualStateManager\Assets\SplashScreen.png">
       <PackagePath>Assets\SplashScreen.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Admin\Desktop\20484C\Allfiles\Mod02\Democode\Lesson3\VisualStateManager\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Users\Admin\Desktop\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Democode\Lesson3\VisualStateManager\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Admin\Desktop\20484C\Allfiles\Mod02\Democode\Lesson3\VisualStateManager\bin\x86\Debug\VisualStateManager.xr.xml">
+    <AppxPackagedFile Include="C:\Users\Admin\Desktop\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Democode\Lesson3\VisualStateManager\bin\x86\Debug\VisualStateManager.xr.xml">
       <PackagePath>VisualStateManager.xr.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Admin\Desktop\20484C\Allfiles\Mod02\Democode\Lesson3\VisualStateManager\bin\x86\Debug\App.xbf">
+    <AppxPackagedFile Include="C:\Users\Admin\Desktop\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Democode\Lesson3\VisualStateManager\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Admin\Desktop\20484C\Allfiles\Mod02\Democode\Lesson3\VisualStateManager\bin\x86\Debug\Common\StandardStyles.xbf">
+    <AppxPackagedFile Include="C:\Users\Admin\Desktop\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Democode\Lesson3\VisualStateManager\bin\x86\Debug\Common\StandardStyles.xbf">
       <PackagePath>Common\StandardStyles.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Admin\Desktop\20484C\Allfiles\Mod02\Democode\Lesson3\VisualStateManager\bin\x86\Debug\MainPage.xbf">
+    <AppxPackagedFile Include="C:\Users\Admin\Desktop\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Democode\Lesson3\VisualStateManager\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.17134.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Admin\Desktop\20484C\Allfiles\Mod02\Democode\Lesson3\VisualStateManager\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\Admin\Desktop\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Democode\Lesson3\VisualStateManager\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Admin\Desktop\20484C\Allfiles\Mod02\Democode\Lesson3\VisualStateManager\bin\x86\Debug\Core\VisualStateManager.exe">
+    <AppxPackagedFile Include="C:\Users\Admin\Desktop\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Democode\Lesson3\VisualStateManager\bin\x86\Debug\Core\VisualStateManager.exe">
       <PackagePath>VisualStateManager.exe</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>

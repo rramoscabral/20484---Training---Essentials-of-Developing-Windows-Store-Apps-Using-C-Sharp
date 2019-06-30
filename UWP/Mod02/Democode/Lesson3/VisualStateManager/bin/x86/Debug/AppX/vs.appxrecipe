@@ -10,7 +10,7 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>8ec948d0-bf13-46b1-8672-ee166c42a4f3</PackageIdentityName>
     <PackageIdentityPublisher>CN=Alon</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\Admin\Desktop\20484C\Allfiles\Mod02\Democode\Lesson3\VisualStateManager\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\Admin\Desktop\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Democode\Lesson3\VisualStateManager\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType>
     </RemoteDeploymentType>
     <PackageRegistrationPath>
@@ -18,7 +18,7 @@
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\Users\Admin\Desktop\20484C\Allfiles\Mod02\Democode\Lesson3\VisualStateManager\bin\x86\Debug\AppX</LayoutDir>
+    <LayoutDir>C:\Users\Admin\Desktop\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Democode\Lesson3\VisualStateManager\bin\x86\Debug\AppX</LayoutDir>
     <RegisteredManifestChecksum>4FFD5BBC8FEE17EBE883A434606D1451BC07DA75E3E85690BB8F8343F2D3ED1C</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>8ec948d0-bf13-46b1-8672-ee166c42a4f3_1.1.0.0_x86__7209sxpgx81vg</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>8ec948d0-bf13-46b1-8672-ee166c42a4f3_7209sxpgx81vg!App</RegisteredUserModeAppID>
@@ -27,16 +27,16 @@
     <RegisteredVersion>1.1.0.0</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\Admin\Desktop\20484C\Allfiles\Mod02\Democode\Lesson3\VisualStateManager\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\Admin\Desktop\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Democode\Lesson3\VisualStateManager\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2019-06-22T15:55:09.385</Modified>
+      <Modified>2019-06-30T22:44:26.199</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\Admin\Desktop\20484C\Allfiles\Mod02\Democode\Lesson3\VisualStateManager\bin\x86\Debug\VisualStateManager.exe">
+    <AppxPackagedFile Include="C:\Users\Admin\Desktop\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Democode\Lesson3\VisualStateManager\bin\x86\Debug\VisualStateManager.exe">
       <PackagePath>entrypoint\VisualStateManager.exe</PackagePath>
-      <Modified>2019-06-22T15:55:00.611</Modified>
+      <Modified>2019-06-30T22:44:20.375</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Admin\.nuget\packages\microsoft.applicationinsights\1.0.0\lib\portable-win81+wpa81\Microsoft.ApplicationInsights.dll">
       <PackagePath>Microsoft.ApplicationInsights.dll</PackagePath>
@@ -510,53 +510,53 @@
       <PackagePath>NotificationsExtensions.winmd</PackagePath>
       <Modified>2014-08-21T19:08:44.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Admin\Desktop\20484C\Allfiles\Mod02\Democode\Lesson3\VisualStateManager\Assets\Logo.png">
+    <AppxPackagedFile Include="C:\Users\Admin\Desktop\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Democode\Lesson3\VisualStateManager\Assets\Logo.png">
       <PackagePath>Assets\Logo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2013-12-09T22:44:57.311</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Admin\Desktop\20484C\Allfiles\Mod02\Democode\Lesson3\VisualStateManager\Assets\SmallLogo.png">
+    <AppxPackagedFile Include="C:\Users\Admin\Desktop\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Democode\Lesson3\VisualStateManager\Assets\SmallLogo.png">
       <PackagePath>Assets\SmallLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2013-12-09T22:44:57.405</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Admin\Desktop\20484C\Allfiles\Mod02\Democode\Lesson3\VisualStateManager\Assets\SplashScreen.png">
+    <AppxPackagedFile Include="C:\Users\Admin\Desktop\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Democode\Lesson3\VisualStateManager\Assets\SplashScreen.png">
       <PackagePath>Assets\SplashScreen.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2013-12-09T22:44:57.420</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Admin\Desktop\20484C\Allfiles\Mod02\Democode\Lesson3\VisualStateManager\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Users\Admin\Desktop\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Democode\Lesson3\VisualStateManager\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2013-12-09T22:44:57.420</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Admin\Desktop\20484C\Allfiles\Mod02\Democode\Lesson3\VisualStateManager\bin\x86\Debug\VisualStateManager.xr.xml">
+    <AppxPackagedFile Include="C:\Users\Admin\Desktop\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Democode\Lesson3\VisualStateManager\bin\x86\Debug\VisualStateManager.xr.xml">
       <PackagePath>VisualStateManager.xr.xml</PackagePath>
       <Modified>2019-06-22T15:54:59.933</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Admin\Desktop\20484C\Allfiles\Mod02\Democode\Lesson3\VisualStateManager\bin\x86\Debug\App.xbf">
+    <AppxPackagedFile Include="C:\Users\Admin\Desktop\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Democode\Lesson3\VisualStateManager\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2019-06-22T15:55:00.148</Modified>
+      <Modified>2019-06-30T22:44:19.951</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Admin\Desktop\20484C\Allfiles\Mod02\Democode\Lesson3\VisualStateManager\bin\x86\Debug\Common\StandardStyles.xbf">
+    <AppxPackagedFile Include="C:\Users\Admin\Desktop\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Democode\Lesson3\VisualStateManager\bin\x86\Debug\Common\StandardStyles.xbf">
       <PackagePath>Common\StandardStyles.xbf</PackagePath>
-      <Modified>2019-06-22T15:55:00.145</Modified>
+      <Modified>2019-06-30T22:44:19.941</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Admin\Desktop\20484C\Allfiles\Mod02\Democode\Lesson3\VisualStateManager\bin\x86\Debug\MainPage.xbf">
+    <AppxPackagedFile Include="C:\Users\Admin\Desktop\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Democode\Lesson3\VisualStateManager\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2019-06-22T15:55:00.151</Modified>
+      <Modified>2019-06-30T22:44:19.953</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.17134.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
       <Modified>2018-04-19T21:01:52.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Admin\Desktop\20484C\Allfiles\Mod02\Democode\Lesson3\VisualStateManager\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\Admin\Desktop\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Democode\Lesson3\VisualStateManager\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2019-06-22T15:55:04.973</Modified>
+      <Modified>2019-06-30T22:44:25.492</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Admin\Desktop\20484C\Allfiles\Mod02\Democode\Lesson3\VisualStateManager\bin\x86\Debug\Core\VisualStateManager.exe">
+    <AppxPackagedFile Include="C:\Users\Admin\Desktop\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Democode\Lesson3\VisualStateManager\bin\x86\Debug\Core\VisualStateManager.exe">
       <PackagePath>VisualStateManager.exe</PackagePath>
-      <Modified>2019-06-22T15:55:09.219</Modified>
+      <Modified>2019-06-30T22:44:26.186</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
