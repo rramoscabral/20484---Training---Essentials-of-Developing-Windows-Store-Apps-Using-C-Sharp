@@ -1,0 +1,233 @@
+﻿<common:NotesBasePage
+    x:Name="pageRoot"
+    x:Class="ILoveNotes.GroupDetailPage"
+    DataContext="{Binding DefaultViewModel, RelativeSource={RelativeSource Self}}"
+    IsTabStop="false"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:ILoveNotes"
+    xmlns:data="using:ILoveNotes.Data"
+    xmlns:Settings="using:ILoveNotes.Pages.Settings"
+    xmlns:common="using:ILoveNotes.Common"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Page.Resources>
+
+        <!--
+            Collection of grouped items displayed by this page, bound to a subset
+            of the complete item list because items in groups cannot be virtualized
+        -->
+        <CollectionViewSource
+            x:Name="groupedItemsViewSource"
+            Source="{Binding Sections}"
+            IsSourceGrouped="true"
+            ItemsPath="Items"
+            d:Source="{Binding AllGroups[0].Sections, Source={d:DesignInstance Type=data:NotesDataSource, IsDesignTimeCreatable=True}}"/>
+    </Page.Resources>
+
+    <Page.BottomAppBar>
+        <AppBar x:Name="PageAppBar" Style="{StaticResource AppBarStyle}">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="80*"/>
+                    <ColumnDefinition Width="50*"/>
+                </Grid.ColumnDefinitions>
+                <StackPanel x:Name="RightCommands" Orientation="Horizontal" Grid.Column="1" HorizontalAlignment="Right">
+                    <Button x:Name="btnEdit" HorizontalAlignment="Right" Style="{StaticResource EditAppBarButtonStyle}" Click="btnEdit_Click" />
+                    <!--<Rectangle x:Name="Splitter"  Style="{StaticResource SplitterStyle}" />-->
+                    <Button x:Name="btnDelete" HorizontalAlignment="Right" Style="{StaticResource DeleteAppBarButtonStyle}" Click="btnDelete_Click" />
+                    <Button x:Name="btnAddItem" HorizontalAlignment="Right" Click="AppBarButtonAddItemsClick" Style="{StaticResource AddAppBarButtonStyle}" />
+                </StackPanel>
+                <StackPanel x:Name="LeftCommands" Orientation="Horizontal" Grid.Column="0" HorizontalAlignment="Left">
+                    <Button x:Name="btnSoft" HorizontalAlignment="Left" Style="{StaticResource SortAppBarButtonStyle}" Click="btnSoft_Click" />
+                </StackPanel>
+            </Grid>
+        </AppBar>
+    </Page.BottomAppBar>
+    <!--
+        This grid acts as a root panel for the page that defines two rows:
+        * Row 0 contains the back button and page title
+        * Row 1 contains the rest of the page layout
+    -->
+    <Grid Style="{StaticResource LayoutRootStyle}" DataContext="{Binding Group}" Loaded="Grid_Loaded" >
+        <Grid.RowDefinitions>
+            <RowDefinition Height="140"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!-- Back button and page title -->
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition />
+                <ColumnDefinition Width="150"/>
+            </Grid.ColumnDefinitions>
+            <Button x:Name="backButton" Click="GoBack" IsEnabled="{Binding Frame.CanGoBack, ElementName=pageRoot}" Style="{StaticResource BackButtonStyle}"/>
+            <StackPanel x:Name="pageTitleContainer" Style="{StaticResource pageTitleContainerStyle}" PointerPressed="MenuItem_Click">
+                <TextBlock x:Name="pageTitle"  Text="{Binding Title}"  Style="{StaticResource PageHeaderTextStyle}" Margin="0,0,5,0" TextTrimming="WordEllipsis" VerticalAlignment="Center"/>
+                <TextBlock Text="&#x25BC;" x:Name="titleArrow" HorizontalAlignment="Right" Foreground="{StaticResource NotesCustomColor}" Margin="0,15,0,0"  FontFamily="Segoe UI Symbol" VerticalAlignment="Center" FontSize="18"/>
+            </StackPanel>
+            <ContentControl x:Name="pageLogo" ContentTemplate="{StaticResource LogoTemplate}" Grid.Column="2" VerticalAlignment="Center" Margin="0,20,0,0" HorizontalAlignment="Center"/>
+        </Grid>
+
+
+        <!-- Horizontal scrolling grid used in most view states -->
+        <GridView
+            x:Name="itemGridView"
+            AutomationProperties.AutomationId="ItemGridView"
+            AutomationProperties.Name="Grouped Items"
+            Grid.Row="1"
+            Margin="0,-3,0,0"
+            Padding="116,0,40,46"
+            SelectionMode="None"
+                IsItemClickEnabled="True"
+                ItemClick="ItemView_ItemClick"
+            ItemsSource="{Binding Source={StaticResource groupedItemsViewSource}}"
+            ItemTemplate="{StaticResource Standard250x250ItemTemplate}"
+            >
+            <!--ItemTemplate="{StaticResource Standard250x250ItemTemplate}"-->
+            <GridView.ItemsPanel>
+                <ItemsPanelTemplate>
+                    <VirtualizingStackPanel Orientation="Horizontal"/>
+                </ItemsPanelTemplate>
+            </GridView.ItemsPanel>
+            <GridView.GroupStyle>
+                <GroupStyle>
+                    <GroupStyle.HeaderTemplate>
+                        <DataTemplate>
+                            <Grid Margin="1,0,80,6">
+                                <Button
+                                    AutomationProperties.Name="Group Title"
+                                    Content="{Binding Title}"
+                                    Style="{StaticResource TextButtonStyle}"/>
+                            </Grid>
+                        </DataTemplate>
+                    </GroupStyle.HeaderTemplate>
+                    <GroupStyle.Panel>
+                        <ItemsPanelTemplate>
+                            <VariableSizedWrapGrid Orientation="Vertical" Margin="0,0,80,0"/>
+                        </ItemsPanelTemplate>
+                    </GroupStyle.Panel>
+                </GroupStyle>
+            </GridView.GroupStyle>
+        </GridView>
+
+        <!-- Vertical scrolling list only used when snapped -->
+        <ListView
+            x:Name="itemListView"
+            AutomationProperties.AutomationId="ItemListView"
+            AutomationProperties.Name="Grouped Items"
+            Grid.Row="1"
+            Visibility="Collapsed"
+            Margin="0,-10,0,0"
+            Padding="10,0,0,60"
+            SelectionMode="None"
+            IsItemClickEnabled="True"
+            ItemClick="ItemView_ItemClick"
+            ItemsSource="{Binding Source={StaticResource groupedItemsViewSource}}"
+            ItemTemplate="{StaticResource Standard80ItemTemplate}">
+
+            <ListView.GroupStyle>
+                <GroupStyle>
+                    <GroupStyle.HeaderTemplate>
+                        <DataTemplate>
+                            <Grid Margin="7,7,0,0">
+                                <Button
+                                    AutomationProperties.Name="Group Title"
+                                    Content="{Binding Title}"
+                                    Style="{StaticResource TextButtonStyle}"/>
+                            </Grid>
+                        </DataTemplate>
+                    </GroupStyle.HeaderTemplate>
+                </GroupStyle>
+            </ListView.GroupStyle>
+        </ListView>
+
+        <Popup x:Name="EditTitlepopup" IsLightDismissEnabled = "True" IsOpen="False" Closed="EditTitlepopup_Closed">
+            <Border Background="White"  BorderBrush="Black"  BorderThickness="3">
+                <Grid x:Name="EditTitleGrid" HorizontalAlignment="Center" VerticalAlignment="Center" Width="300" Height="200" Background="{StaticResource AppBgColor}">
+                    <TextBlock Text="Notebook Name:" Height="48" Style="{StaticResource SubheaderTextStyle}" VerticalAlignment="Top" Margin="20,10,0,0" />
+                    <TextBox Margin="20,70,20,0" x:Name="txtNotebookTitle" TextWrapping="NoWrap"  KeyDown="txtNbNameKeyDown"  Text="{Binding Title}" VerticalAlignment="Top" />
+                    <Button x:Name="btnClose" Click="btnClose_Click"  Content="Close" HorizontalAlignment="Right" Margin="0,0,20,20" VerticalAlignment="Bottom" BorderBrush="Black" Foreground="Black" Width="100"/>
+                </Grid>
+            </Border>
+        </Popup>
+
+        <Popup Name="popupAddNoteBook"  IsLightDismissEnabled = "True" IsOpen="False" >
+            <Border Background="White"  BorderBrush="Black"  BorderThickness="3">
+                <Grid HorizontalAlignment="Center" VerticalAlignment="Center" Width="300" Height="200" Background="{StaticResource AppBgColor}">
+                    <TextBlock Text="Notebook Name:" Style="{StaticResource SubheaderTextStyle}" VerticalAlignment="Top" Margin="20,10,0,0" />
+                    <TextBox Margin="20,70,20,0" TextWrapping="Wrap" x:Name="txtNbName" KeyDown="txtNbNameKeyDown"  Text="" VerticalAlignment="Top" />
+                    <Button x:Name="btnAddNb" Click="btnAddNBClick"  Content="Add" HorizontalAlignment="Left" Margin="20,0,0,20" VerticalAlignment="Bottom" Width="100" Style="{StaticResource CustomButtonStyle}"/>
+                    <Button x:Name="btnCancelNB" Click="btnCancelNb"  Content="Cancel" HorizontalAlignment="Right" Margin="0,0,20,20" VerticalAlignment="Bottom" Style="{StaticResource CustomButtonStyle}" Width="100"/>
+                </Grid>
+            </Border>
+        </Popup>
+
+        <VisualStateManager.VisualStateGroups>
+
+            <!-- Visual states reflect the application's view state -->
+            <VisualStateGroup x:Name="ApplicationViewStates">
+                <VisualState x:Name="FullScreenLandscape"/>
+                <VisualState x:Name="Filled"/>
+
+                <!-- The entire page respects the narrower 100-pixel margin convention for portrait -->
+                <VisualState x:Name="FullScreenPortrait">
+                    <Storyboard>
+                        <ObjectAnimationUsingKeyFrames Storyboard.TargetName="backButton" Storyboard.TargetProperty="Style">
+                            <DiscreteObjectKeyFrame KeyTime="0" Value="{StaticResource PortraitBackButtonStyle}"/>
+                        </ObjectAnimationUsingKeyFrames>
+
+                        <ObjectAnimationUsingKeyFrames Storyboard.TargetName="itemGridView" Storyboard.TargetProperty="Padding">
+                            <DiscreteObjectKeyFrame KeyTime="0" Value="96,0,10,56"/>
+                        </ObjectAnimationUsingKeyFrames>
+                    </Storyboard>
+                </VisualState>
+
+                <!--
+                    The back button and title have different styles when snapped, and the list representation is substituted
+                    for the grid displayed in all other view states
+                -->
+                <VisualState x:Name="Snapped">
+                    <Storyboard>
+                        <ObjectAnimationUsingKeyFrames Storyboard.TargetName="backButton" Storyboard.TargetProperty="Style">
+                            <DiscreteObjectKeyFrame KeyTime="0" Value="{StaticResource SnappedBackButtonStyle}"/>
+                        </ObjectAnimationUsingKeyFrames>
+
+                        <ObjectAnimationUsingKeyFrames Storyboard.TargetName="Splitter" Storyboard.TargetProperty="Visibility">
+                            <DiscreteObjectKeyFrame KeyTime="0" Value="Collapsed"/>
+                        </ObjectAnimationUsingKeyFrames>
+                        <ObjectAnimationUsingKeyFrames Storyboard.TargetName="btnEdit" Storyboard.TargetProperty="Visibility">
+                            <DiscreteObjectKeyFrame KeyTime="0" Value="Collapsed"/>
+                        </ObjectAnimationUsingKeyFrames>
+                        <ObjectAnimationUsingKeyFrames Storyboard.TargetName="btnAddItem" Storyboard.TargetProperty="Visibility">
+                            <DiscreteObjectKeyFrame KeyTime="0" Value="Collapsed"/>
+                        </ObjectAnimationUsingKeyFrames>
+
+                        <ObjectAnimationUsingKeyFrames Storyboard.TargetName="pageTitle" Storyboard.TargetProperty="Style">
+                            <DiscreteObjectKeyFrame KeyTime="0" Value="{StaticResource SnappedPageHeaderTextStyle}"/>
+                        </ObjectAnimationUsingKeyFrames>
+                        <ObjectAnimationUsingKeyFrames Storyboard.TargetName="pageTitleContainer" Storyboard.TargetProperty="Style">
+                            <DiscreteObjectKeyFrame KeyTime="0" Value="{StaticResource pageTitleContainerSnappedStyle}"/>
+                        </ObjectAnimationUsingKeyFrames>
+                        <ObjectAnimationUsingKeyFrames Storyboard.TargetName="itemListView" Storyboard.TargetProperty="Visibility">
+                            <DiscreteObjectKeyFrame KeyTime="0" Value="Visible"/>
+                        </ObjectAnimationUsingKeyFrames>
+                        <ObjectAnimationUsingKeyFrames Storyboard.TargetName="itemGridView" Storyboard.TargetProperty="Visibility">
+                            <DiscreteObjectKeyFrame KeyTime="0" Value="Collapsed"/>
+                        </ObjectAnimationUsingKeyFrames>
+                        <ObjectAnimationUsingKeyFrames Storyboard.TargetName="pageLogo" Storyboard.TargetProperty="ContentTemplate">
+                            <DiscreteObjectKeyFrame KeyTime="0" Value="{StaticResource LogoSnappedTemplate}"/>
+                        </ObjectAnimationUsingKeyFrames>
+                        <ObjectAnimationUsingKeyFrames Storyboard.TargetName="pageLogo" Storyboard.TargetProperty="VerticalAlignment">
+                            <DiscreteObjectKeyFrame KeyTime="0" Value="Top"/>
+                        </ObjectAnimationUsingKeyFrames>
+                    </Storyboard>
+                </VisualState>
+            </VisualStateGroup>
+        </VisualStateManager.VisualStateGroups>
+    </Grid>
+</common:NotesBasePage>
+

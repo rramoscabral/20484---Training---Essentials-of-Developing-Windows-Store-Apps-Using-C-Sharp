@@ -1,0 +1,29 @@
+<SemanticZoom.ZoomedOutView>
+                <GridView
+                x:Name="groupGridView"
+                AutomationProperties.AutomationId="ZoomGridView"
+                AutomationProperties.Name="Grouped Items"        
+                    Margin="116,0,40,46" 
+                SelectionMode="None">
+                    <GridView.ItemTemplate>
+                        <DataTemplate>
+                            <Border BorderBrush="#3329211C" BorderThickness="1">
+                                <Grid HorizontalAlignment="Left" Width="225" Height="500" VerticalAlignment="Top" >
+                                    <Border>
+                                        <Image Source="{Binding Group.Items, Converter={StaticResource SingleImage}, ConverterParameter=Image}" Stretch="UniformToFill"/>
+                                    </Border>
+                                    <Grid VerticalAlignment="Bottom"  Background="{StaticResource ItemHeaderBackground}">
+                                        <TextBlock Text="{Binding Group.Title}" Style="{StaticResource SubheaderWhiteTextStyle}"  Margin="10,5,5,20" TextWrapping="Wrap" VerticalAlignment="Center" TextTrimming="WordEllipsis"/>
+                                    </Grid>
+                                </Grid>
+                            </Border>
+                        </DataTemplate>
+                    </GridView.ItemTemplate>
+                    <GridView.ItemContainerStyle>
+                        <Style TargetType="FrameworkElement">
+                            <Setter Property="Margin" Value="0,0,40,0"/>
+                        </Style>
+                    </GridView.ItemContainerStyle>
+                </GridView>
+            </SemanticZoom.ZoomedOutView>
+

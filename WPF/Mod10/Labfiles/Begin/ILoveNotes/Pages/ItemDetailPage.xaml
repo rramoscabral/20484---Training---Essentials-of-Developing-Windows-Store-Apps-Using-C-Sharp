@@ -1,0 +1,277 @@
+﻿<common:NotesBasePage
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:ILoveNotes"    
+    xmlns:Controls="using:ILoveNotes.Controls" 
+    xmlns:data="using:ILoveNotes.Data"
+    xmlns:common="using:ILoveNotes.Common"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:System="using:System"
+    x:Name="pageRoot"
+    x:Class="ILoveNotes.ItemDetailPage"
+    DataContext="{Binding DefaultViewModel, RelativeSource={RelativeSource Mode=Self}}"
+    IsTabStop="false"
+    mc:Ignorable="d" Loaded="pageRoot_Loaded">
+
+    <common:NotesBasePage.Resources>
+        <!-- Collection of items displayed by this page -->
+        <CollectionViewSource
+            x:Name="itemsViewSource"
+            Source="{Binding Item}"
+            d:Source="{Binding AllGroups[0].TopItems[0], Source={d:DesignInstance IsDesignTimeCreatable=True, Type=data:NotesDataSource}}"
+            />
+    </common:NotesBasePage.Resources>
+
+    <common:NotesBasePage.BottomAppBar>
+        <CommandBar x:Name="PageAppBar">
+            <CommandBar.PrimaryCommands>
+                <AppBarButton x:Name="btnAddToDo" Click="btnAddNewToDoClick" Visibility="Collapsed" Label="Add ToDo">
+                    <AppBarButton.Icon>
+                        <FontIcon Glyph="&#xE109;"/>
+                    </AppBarButton.Icon>
+                </AppBarButton>
+                <AppBarButton Click="btnAddAttachClick" Visibility="Visible" Label="Attach" Icon="Attach"/>
+                <AppBarButton Click="btnOpenTagsPopupClick" Visibility="Visible" Label="Tags">
+                    <AppBarButton.Icon>
+                        <FontIcon Glyph="&#xE133;"/>
+                    </AppBarButton.Icon>
+                </AppBarButton>
+                <AppBarButton Click="btnMoveNotebookClick" Visibility="Visible" Label="Move">
+                    <AppBarButton.Icon>
+                        <FontIcon Glyph="&#xE13F;"/>
+                    </AppBarButton.Icon>
+                </AppBarButton>
+
+                <AppBarSeparator/>
+                
+                <AppBarButton Click="btnDeleteClick" Visibility="Visible" Label="Delete" Icon="Delete"/>
+                <AppBarButton Click="AppBarButtonAddItemsClick" Visibility="Visible" Icon="Add" Label="Add"/>
+            </CommandBar.PrimaryCommands>
+            <CommandBar.SecondaryCommands>
+                <!-- Lab 10, Exercise 2, Task 2.1 : Add a Pin button for Note items -->
+            </CommandBar.SecondaryCommands>
+        </CommandBar>
+
+    </common:NotesBasePage.BottomAppBar>
+
+    <!--
+        This grid acts as a root panel for the page that defines two rows:
+        * Row 0 contains the back button and page title
+        * Row 1 contains the rest of the page layout
+    -->
+    <Grid Style="{StaticResource LayoutRootStyle}" x:Name="MainGrid" DataContext="{Binding Item}" >
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="356*"/>
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="140"/>
+            <RowDefinition Height="20*"/>
+            <RowDefinition Height="137*"/>
+        </Grid.RowDefinitions>
+
+        <VisualStateManager.VisualStateGroups>
+            <!-- Visual states reflect the application's view state -->
+            <VisualStateGroup x:Name="ApplicationViewStates">
+                <VisualState x:Name="FullScreenLandscape"/>
+                <VisualState x:Name="Filled"/>
+
+                <!-- The back button respects the narrower 100-pixel margin convention for portrait -->
+                <VisualState x:Name="FullScreenPortrait">
+                    <Storyboard>
+                        <ObjectAnimationUsingKeyFrames Storyboard.TargetName="backButton" Storyboard.TargetProperty="Style">
+                            <DiscreteObjectKeyFrame KeyTime="0" Value="{StaticResource PortraitBackButtonStyle}"/>
+                        </ObjectAnimationUsingKeyFrames>
+                    </Storyboard>
+                </VisualState>
+
+                <!-- The back button and title have different styles when snapped -->
+                <VisualState x:Name="Snapped">
+                    <Storyboard>
+                        <ObjectAnimationUsingKeyFrames Storyboard.TargetName="backButton" Storyboard.TargetProperty="Style">
+                            <DiscreteObjectKeyFrame KeyTime="0" Value="{StaticResource SnappedBackButtonStyle}"/>
+                        </ObjectAnimationUsingKeyFrames>
+                        <!--<ObjectAnimationUsingKeyFrames Storyboard.TargetName="pageSnappedTitle" Storyboard.TargetProperty="Visibility">
+                            <DiscreteObjectKeyFrame KeyTime="0" Value="Visible"/>
+                        </ObjectAnimationUsingKeyFrames>-->
+                        <ObjectAnimationUsingKeyFrames Storyboard.TargetName="pageTitle" Storyboard.TargetProperty="Style">
+                            <DiscreteObjectKeyFrame KeyTime="0" Value="{StaticResource CustomSnappedTitleTextBoxStyle}"/>
+                        </ObjectAnimationUsingKeyFrames>
+                        <ObjectAnimationUsingKeyFrames Storyboard.TargetName="listScrollViewer" Storyboard.TargetProperty="Visibility">
+                            <DiscreteObjectKeyFrame KeyTime="0" Value="Visible"/>
+                        </ObjectAnimationUsingKeyFrames>
+                        <ObjectAnimationUsingKeyFrames Storyboard.TargetName="gridScrollViewer" Storyboard.TargetProperty="Visibility">
+                            <DiscreteObjectKeyFrame KeyTime="0" Value="Collapsed"/>
+                        </ObjectAnimationUsingKeyFrames>
+                        <ObjectAnimationUsingKeyFrames Storyboard.TargetName="noteCreatedDate" Storyboard.TargetProperty="Visibility">
+                            <DiscreteObjectKeyFrame KeyTime="0" Value="Collapsed"/>
+                        </ObjectAnimationUsingKeyFrames>
+                        <ObjectAnimationUsingKeyFrames Storyboard.TargetName="RightCommands" Storyboard.TargetProperty="Visibility">
+                            <DiscreteObjectKeyFrame KeyTime="0" Value="Collapsed"/>
+                        </ObjectAnimationUsingKeyFrames>
+                        <ObjectAnimationUsingKeyFrames Storyboard.TargetName="pageLogo" Storyboard.TargetProperty="ContentTemplate">
+                            <DiscreteObjectKeyFrame KeyTime="0" Value="{StaticResource LogoSnappedTemplate}"/>
+                        </ObjectAnimationUsingKeyFrames>
+                        <ObjectAnimationUsingKeyFrames Storyboard.TargetName="pageLogo" Storyboard.TargetProperty="VerticalAlignment">
+                            <DiscreteObjectKeyFrame KeyTime="0" Value="Top"/>
+                        </ObjectAnimationUsingKeyFrames>
+                    </Storyboard>
+                </VisualState>
+            </VisualStateGroup>
+        </VisualStateManager.VisualStateGroups>
+        <!-- Back button and page title -->
+        <Grid Grid.ColumnSpan="3">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="250*" />
+                <!--<ColumnDefinition Width="120"/>-->
+                <ColumnDefinition Width="150"/>
+            </Grid.ColumnDefinitions>
+            <Button x:Name="backButton" Click="GoBack" IsEnabled="{Binding Frame.CanGoBack, ElementName=pageRoot}" Style="{StaticResource BackButtonStyle}"/>
+            <TextBox x:Name="pageTitle" KeyDown="pageTitleKeyDown" Style="{StaticResource CustomTitleTextBoxStyle}"  GotFocus="pageTitle_GotFocus" LostFocus="pageTitle_LostFocus" Text="{Binding Title, Mode=TwoWay}" VerticalAlignment="Center" Grid.Column="1"/>
+            <!--<TextBlock x:Name="pageSnappedTitle" Visibility="Collapsed"  Style="{StaticResource SnappedPageHeaderTextStyle}" Padding="0,0,0,0" Text="{Binding Title}" Grid.Column="1" Grid.ColumnSpan="2"/>-->
+            <TextBlock x:Name="noteCreatedDate" Visibility="Collapsed" Text="{Binding CreatedDate}" Margin="10,0,0,0" HorizontalAlignment="Left"  VerticalAlignment="Center" Style="{StaticResource SubSecondaryHeaderTextStyle}" Grid.Column="2"/>
+            <ContentControl x:Name="pageLogo" ContentTemplate="{StaticResource LogoTemplate}" Grid.Column="2" VerticalAlignment="Center" HorizontalAlignment="Center" Margin="0,20,0,0"/>
+        </Grid>
+
+        <Popup x:Name="popupAddNoteBook"  IsLightDismissEnabled = "True" IsOpen="False" >
+            <Border Background="{StaticResource AppBgColor}"  BorderBrush="Black"  BorderThickness="2">
+                <Grid HorizontalAlignment="Center" VerticalAlignment="Center" Width="300" Height="200" Background="{StaticResource AppBgColor}">
+                    <TextBlock Text="Notebook Name:" Height="48" Style="{StaticResource SubheaderTextStyle}" VerticalAlignment="Top" Margin="20,10,0,0" />
+                    <TextBox Margin="20,70,20,0" TextWrapping="Wrap" x:Name="txtNbName" KeyDown="txtNbNameKeyDown"  Text="" VerticalAlignment="Top" />
+                    <Button x:Name="btnAddNb" Click="btnAddNBClick"  Content="Add" HorizontalAlignment="Left" Margin="20,0,0,20" VerticalAlignment="Bottom" Width="100" Style="{StaticResource CustomButtonStyle}"/>
+                    <Button x:Name="btnCancelNB" Click="btnCancelNb"  Content="Cancel" HorizontalAlignment="Right" Margin="0,0,20,20" VerticalAlignment="Bottom" Style="{StaticResource CustomButtonStyle}" Width="100"/>
+                </Grid>
+            </Border>
+        </Popup>
+
+        <Popup x:Name="TagsPopup" IsLightDismissEnabled="True"  IsOpen="False" Closed="TagsPopup_Closed" >
+            <Border  Background="{StaticResource AppBgColor}"  BorderBrush="Black"  BorderThickness="2">
+                <Grid Margin="0,10,0,0" Height="450" Width="300" HorizontalAlignment="Stretch">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="74"/>
+                        <RowDefinition/>
+                        <RowDefinition Height="42"/>
+                    </Grid.RowDefinitions>
+                    <TextBlock TextWrapping="Wrap" Text="Add a tag:" Style="{StaticResource SubheaderTextStyle}" VerticalAlignment="Top" Margin="11.333,0,0,10" Height="30"/>
+                    <TextBox x:Name="txtTagTitle"  TextWrapping="NoWrap" BorderBrush="Black" BorderThickness="1" Text="" Margin="10,40,75,0" VerticalAlignment="Top"/>
+                    <Button x:Name="btnTagSave" Content="Close" Click="btnTagSaveClick" Style="{StaticResource CustomButtonStyle}" HorizontalAlignment="Right" Margin="0,0,10,5" VerticalAlignment="Bottom" Grid.Row="2"   />
+                    <Button x:Name="btnTagAdd" Content="Add" Click="btnTagAddClick" Style="{StaticResource CustomButtonStyle}" HorizontalAlignment="Right" Margin="0,0,10,0" VerticalAlignment="Bottom" Grid.Row="0" Height="37"   />
+                    <ListView ScrollViewer.VerticalScrollBarVisibility="Auto" x:Name="listSuggestions" Margin="10,10,0,10" Grid.Row="1" ItemContainerStyle="{StaticResource CustomListViewItemStyle}" HorizontalAlignment="Center" SelectionMode="Multiple" Width="280" >
+                    </ListView>
+                </Grid>
+            </Border>
+        </Popup>
+
+        <ScrollViewer
+            x:Name="gridScrollViewer"
+            AutomationProperties.AutomationId="DetailsScrollViewer"
+            Grid.Row="1"
+            Margin="0,-3,0,0"
+            Padding="46,0,40,46"
+            Style="{StaticResource HorizontalScrollViewerStyle}" Grid.ColumnSpan="3" Grid.RowSpan="2">
+            <StackPanel x:Name="gridLayoutPanel" Margin="100,0,120,0" Orientation="Horizontal">
+                <Grid Margin="0,4,0,10">
+                    <ContentControl Content="{Binding Item}"  ContentTemplate="{Binding Converter={StaticResource TypeToTemplate}}" />
+                </Grid>
+                <Grid Margin="20,0,20,10" VerticalAlignment="Top" >
+                    <Grid>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="42"/>
+                            <RowDefinition Height="250*" />
+                        </Grid.RowDefinitions>
+                        <TextBlock HorizontalAlignment="Left" Margin="10,0,0,0" Text="Attachments" VerticalAlignment="Center" Style="{StaticResource SubheaderTextStyle}" Grid.RowSpan="1" />
+                        <GridView ItemsSource="{Binding Images}" ItemContainerStyle="{StaticResource CustomGridViewItemStyle}" Grid.Row="1"  VerticalAlignment="Stretch" x:Name="imgList" ScrollViewer.VerticalScrollBarVisibility="Auto" SelectionMode="Single" SelectionChanged="imgList_SelectionChanged">
+                            <GridView.ItemTemplate>
+                                <DataTemplate>
+                                    <Image Source="{Binding Converter={StaticResource ToBaseUri}}" Stretch="UniformToFill" Width="225" Height="225"/>
+                                </DataTemplate>
+                            </GridView.ItemTemplate>
+                        </GridView>
+                    </Grid>
+                </Grid>
+                <Grid Margin="20,0,20,10"  VerticalAlignment="Top">
+                    <Grid>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="42"/>
+                            <RowDefinition Height="250*" />
+                            <RowDefinition Height="90" />
+                        </Grid.RowDefinitions>
+                        <TextBlock HorizontalAlignment="Left" Margin="10,0,0,0" Text="Tags" VerticalAlignment="Center" Style="{StaticResource SubheaderTextStyle}" Grid.RowSpan="1" />
+                        <GridView Grid.Row="1"
+                            x:Name="TagitemGridView"  SelectionMode="None" ScrollViewer.VerticalScrollBarVisibility="Auto"
+                            AutomationProperties.AutomationId="ItemGridView" VerticalAlignment="Stretch" ItemsSource="{Binding Tags}">
+                            <GridView.ItemTemplate>
+                                <DataTemplate>
+                                    <Grid HorizontalAlignment="Left" Height="50" Width="250" Margin="0,0,0,14">
+                                        <Grid.ColumnDefinitions>
+                                            <ColumnDefinition Width="50*"/>
+                                            <ColumnDefinition Width="50"/>
+                                        </Grid.ColumnDefinitions>
+                                        <Image Grid.Column="1" Margin="0" Source="/Assets/Tagcorner.png" Height="50" Stretch="Fill" VerticalAlignment="Top"/>
+                                        <Grid Height="49" Margin="0,0,-1,0" VerticalAlignment="Top" Background="#FF29211C">
+                                            <TextBlock Text="{Binding}" FontSize="16" VerticalAlignment="Center" TextTrimming="WordEllipsis" Margin="5,0,10,5" />
+                                        </Grid>
+                                    </Grid>
+                                </DataTemplate>
+                            </GridView.ItemTemplate>
+                        </GridView>
+                    </Grid>
+                </Grid>
+            </StackPanel>
+        </ScrollViewer>
+
+        <ScrollViewer
+            x:Name="listScrollViewer"
+            AutomationProperties.AutomationId="DetailsScrollViewer"
+            Grid.Row="1"
+            Visibility="Collapsed"
+            Margin="0,-10,0,0"
+            Padding="10,0,0,60"
+            Style="{StaticResource VerticalScrollViewerStyle}" Grid.ColumnSpan="3" Grid.RowSpan="2">
+            <StackPanel  Orientation="Vertical">
+                <StackPanel Margin="0,20,10,10">
+                    <ContentPresenter Content="{Binding Item}" ContentTemplate="{Binding ConverterParameter=Snapped, Converter={StaticResource TypeToTemplate}}"/>
+                </StackPanel>
+                <StackPanel Margin="20,10,30,10">
+                    <Grid>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="42"/>
+                            <RowDefinition Height="*" />
+                        </Grid.RowDefinitions>
+                        <TextBlock HorizontalAlignment="Left" Margin="10,0,0,0" Text="Attachments" VerticalAlignment="Center" Style="{StaticResource SubheaderTextStyle}" Grid.RowSpan="1" />
+                        <GridView ItemsSource="{Binding Images}" Grid.Row="1" MaxHeight="250" ScrollViewer.HorizontalScrollBarVisibility="Auto" SelectionMode="None">
+                            <GridView.ItemTemplate>
+                                <DataTemplate>
+                                    <Image Source="{Binding Converter={StaticResource ToBaseUri}}" Stretch="UniformToFill" Width="125" Height="125"/>
+                                </DataTemplate>
+                            </GridView.ItemTemplate>
+                        </GridView>
+                    </Grid>
+
+
+                </StackPanel>
+                <StackPanel Margin="20,10,20,10">
+                    <Grid>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="42"/>
+                            <RowDefinition Height="*" />
+                        </Grid.RowDefinitions>
+                        <TextBlock HorizontalAlignment="Left" Margin="10,0,0,0" Text="Tags" VerticalAlignment="Center" Style="{StaticResource SubheaderTextStyle}" Grid.RowSpan="1" />
+                        <ListView Grid.Row="1" MinHeight="100"
+                            ItemTemplate="{StaticResource TagItemTemplate}" SelectionMode="None" ScrollViewer.HorizontalScrollBarVisibility="Auto"
+                            AutomationProperties.AutomationId="ItemGridView" VerticalAlignment="Stretch" ItemsSource="{Binding Tags}">
+                            <ListView.ItemsPanel>
+                                <ItemsPanelTemplate>
+                                    <VirtualizingStackPanel Orientation="Horizontal"/>
+                                </ItemsPanelTemplate>
+                            </ListView.ItemsPanel>
+                        </ListView>
+                    </Grid>
+                </StackPanel>
+            </StackPanel>
+        </ScrollViewer>
+
+    </Grid>
+</common:NotesBasePage>

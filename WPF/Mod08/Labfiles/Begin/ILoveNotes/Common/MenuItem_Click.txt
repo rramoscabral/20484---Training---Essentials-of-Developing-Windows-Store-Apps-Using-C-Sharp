@@ -1,0 +1,19 @@
+async void MenuItem_Click(object sender, RoutedEventArgs e)
+{ 
+	if (navigationMenu != null) return;
+
+        var rect = new Rect(170, 110, 0, 0);
+        navigationMenu = new PopupMenu();
+        var navigationNotebooks = NotesDataSource.GetGroups();
+        var count = navigationNotebooks.Count > 4 ? 4 : navigationNotebooks.Count;
+        for (var i = 0; i < count; i++)
+        {
+        	navigationMenu.Commands.Add(new UICommand(navigationNotebooks[i].Title, Navigate, navigationNotebooks[i].UniqueId));
+        }
+        navigationMenu.Commands.Add(new UICommandSeparator());
+        navigationMenu.Commands.Add(new UICommand("Home", Navigate, null));
+
+        await navigationMenu.ShowForSelectionAsync(rect);
+        navigationMenu = null;
+}
+

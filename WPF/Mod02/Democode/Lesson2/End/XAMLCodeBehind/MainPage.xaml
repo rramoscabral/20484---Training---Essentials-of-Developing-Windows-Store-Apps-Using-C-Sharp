@@ -1,0 +1,16 @@
+﻿<Page
+    x:Class="XAMLCodeBehind.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+
+    <Grid  >
+        <!-- Module 02 Lesson 2 Demo: Add XAML Code here -->
+        <Border x:Name="mainBorder" BorderBrush="Blue" BorderThickness="10" >
+            <StackPanel>
+                <TextBlock FontSize="22">Just a text</TextBlock>
+                <Button Click="OnButtonClick">Click me</Button>
+            </StackPanel>
+        </Border>
+
+    </Grid>
+</Page>

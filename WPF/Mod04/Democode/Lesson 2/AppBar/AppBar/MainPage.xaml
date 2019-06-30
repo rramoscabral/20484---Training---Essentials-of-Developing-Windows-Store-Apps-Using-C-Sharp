@@ -1,0 +1,45 @@
+﻿<Page
+    x:Class="AppBar.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:AppBar"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+    <Page.TopAppBar>
+        <CommandBar x:Name="TopCommandBar1" Padding="10,0,10,0" AutomationProperties.Name="Top App Bar">
+            <CommandBar.PrimaryCommands>
+                <AppBarButton x:Name="Forward" Icon="Forward" Label="Next" Tag="Forward"/>
+            </CommandBar.PrimaryCommands>
+            <CommandBar.SecondaryCommands>
+                <AppBarButton x:Name="Back" Icon="Back" Label="Previous" Tag="Back"/>
+            </CommandBar.SecondaryCommands>
+        </CommandBar>
+    </Page.TopAppBar>
+    <Page.BottomAppBar>
+        <AppBar x:Name="BottomAppBar1" Padding="10,0,10,0" AutomationProperties.Name="Bottom App Bar">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <StackPanel x:Name="BottomLeftPanel" Orientation="Horizontal" Grid.Column="0" HorizontalAlignment="Left">
+                    <AppBarButton x:Name="Edit" Icon="Edit" Label="Edit" Tag="Edit"/>
+                    <AppBarButton x:Name="Save" Label="Save" Tag="Save">
+                        <AppBarButton.Icon>
+                            <FontIcon Glyph="&#xE105;"/>
+                        </AppBarButton.Icon>
+                    </AppBarButton>
+                    <AppBarButton x:Name="Delete" Style="{StaticResource DeleteAppBarButtonStyle}" Tag="Delete"/>
+                </StackPanel>
+                <StackPanel x:Name="BottomRightPanel" Orientation="Horizontal" Grid.Column="1" HorizontalAlignment="Right">
+                    <Button x:Name="Refresh" Style="{StaticResource RefreshAppBarButtonStyle}" Tag="Refresh"/>
+                    <AppBarButton x:Name="Help" Label="Help" Icon="Help" Tag="Help"/>
+                </StackPanel>
+            </Grid>
+        </AppBar>
+    </Page.BottomAppBar>
+    <Grid Background="{StaticResource ApplicationPageBackgroundThemeBrush}">
+        <TextBlock Text="Right-click anywhere on the page to show the app bar." FontSize="40" HorizontalAlignment="Center" VerticalAlignment="Center" />
+    </Grid>
+</Page>

@@ -1,0 +1,32 @@
+﻿<Page
+    x:Class="BackgroundTasks.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:BackgroundTasks"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+    <Page.Resources>
+        <Style TargetType="TextBlock">
+            <Setter Property="FontSize" Value="40" />
+            <Setter Property="HorizontalAlignment" Value="Center" />
+        </Style>
+        <Style TargetType="Button">
+            <Setter Property="FontSize" Value="40" />
+            <Setter Property="HorizontalAlignment" Value="Center" />
+            <Setter Property="Margin" Value="5"/>
+        </Style>
+    </Page.Resources>
+
+    <Grid  Background="{StaticResource ApplicationPageBackgroundThemeBrush}">
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+            <StackPanel Orientation="Horizontal" Margin="10">
+                <TextBlock Text="Result:" Margin="5" />
+                <TextBlock Name="result" Margin="5" Foreground="Green" />
+            </StackPanel>
+            <Button Content="Register Background Task" Click="RegisterBackgroundTask" />
+            <Button Content="Refresh Task Status" Click="RefreshTaskStatus" />
+            <Button Content="Unregister Background Task" Click="UnregisterBackgroundTask" />
+        </StackPanel>
+    </Grid>
+</Page>

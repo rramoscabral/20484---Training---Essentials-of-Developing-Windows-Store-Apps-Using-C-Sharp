@@ -1,0 +1,39 @@
+﻿<Page
+    x:Class="ContosoPhoto.MainPage"
+    IsTabStop="false"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:ContosoPhoto"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Page.BottomAppBar>
+        <CommandBar Opened="CommandBar_Opened">
+            <CommandBar.PrimaryCommands>
+                <AppBarButton Click="OnRedEyeButtonClicked" Icon="Repair" x:Name="RedEyeButton" IsEnabled="False" Label="Red Eye"/>
+                <AppBarButton Click="OnAnnotateButtonClicked" Icon="Edit" x:Name="AnnotateButton" Label="Annotate"/>
+
+            </CommandBar.PrimaryCommands>
+
+            <CommandBar.SecondaryCommands>
+                <AppBarButton Click="OnOpenButtonClicked" Icon="OpenFile" x:Name="OpenButton" Label="Open"/>
+                <AppBarButton Click="OnSaveButtonClicked" Icon="Save" x:Name="SaveButton" Label="Save"/>
+            </CommandBar.SecondaryCommands>
+        </CommandBar>
+    </Page.BottomAppBar>
+
+    <Grid x:Name="LayoutRoot" Background="White" DoubleTapped="LayoutRoot_DoubleTapped" Margin="0,2,0,-2" PointerWheelChanged="LayoutRoot_PointerWheelChanged">
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Center" VerticalAlignment="Center">
+            <TextBlock x:Name="OpeningMessage" Text="Tap here to open a photo" Foreground="#FF4080E0" FontSize="48" Tapped="OpeningMessage_Tapped" />
+        </Border>
+        <Grid RenderTransformOrigin="0.5,0.5">
+            <Grid.RenderTransform>
+                <CompositeTransform x:Name="PhotoTransform" />
+            </Grid.RenderTransform>
+            <Image x:Name="Photo" Margin="20" Width="600" Tapped="Photo_Tapped" ManipulationMode="All"  ManipulationDelta="Photo_ManipulationDelta"/>
+            <Canvas x:Name="AnnotateCanvas" Background="Transparent" IsHitTestVisible="False" PointerPressed="Canvas_PointerPressed" PointerMoved="Canvas_PointerMoved" PointerReleased="Canvas_PointerReleased" PointerExited="Canvas_PointerExited" />
+        </Grid>
+    </Grid>
+
+</Page>
