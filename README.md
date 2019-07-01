@@ -66,6 +66,9 @@ All Visual Studio projects contained in this repository require the following re
 )
 
 * [PowerShell Script to upgrade V8.1 csproj and manifest to UWP by Andy Wigley](https://github.com/Win10DevGuideMVA/ProjectUpgradeUtility)
+   * Note: If you have the lasted Windows 10 SDK  it will require at least Windows 10, version 1089 (10.0.17763.0) or later for XAML Design.
+
+
 
 <br>
 
