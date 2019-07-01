@@ -1,16 +1,19 @@
 # 20484 Training - Essentials of Developing Windows Store Apps Using C#
 20484 Training for Microsoft Official Course (MOC) 20484 - Essentials of Developing Windows Store Apps Using C#
 
+<br>
 
 ### About the course
 In this course students will learn essential programming skills and techniques that are required to develop Windows Store apps. This includes a combination of both design and development skills, as well as ensuring that students are comfortable using and making the most of the Microsoft Visual Studio and Expression Blend tools.
 
 This course is intended for professional developers who have 1 to 2 years of experience creating client applications and who are comfortable programming in C# and have done some XAML-based programming
 
+<br>
+
 ### Visual Studio Projects 
 All Visual Studio projects contained in this repository require the following requirements:
 
-* Presentation Foundation (WPF):
+* Windows Presentation Foundation (WPF):
   * Operation System: Windows 8.1
   * Visual Studio IDE: Professional 2013
   * Platform Target: Any CPU, Prefer 32-bit
@@ -23,6 +26,8 @@ All Visual Studio projects contained in this repository require the following re
   * Target Version: Windows 10, version 1803 (10.0;Built 17134)
   * Min Version: Windows 10 Creators Update (10.0;Built 15063)
   * Enable Windows 10 Developer Mode
+
+<br>
 
 ### Resources
 
