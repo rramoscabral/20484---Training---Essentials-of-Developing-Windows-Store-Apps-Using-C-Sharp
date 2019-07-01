@@ -29,19 +29,18 @@ All Visual Studio projects contained in this repository require the following re
 #### XAML Resources
 
 * [XAML Standard : a set of principles that drive XAML dialect alignment](https://github.com/microsoft/xaml-standard)
-
-
 * [Windows UI Library (WinUI) Specs](https://github.com/microsoft/microsoft-ui-xaml-specs)
-
-
 * [XAML Controls Gallery](https://docs.microsoft.com/en-us/windows/uwp/design/controls-and-patterns/index)
   * [Get the XAML Controls Gallery app (Microsoft Store)](https://www.microsoft.com/store/productId/9MSVH128X2ZT)
   * [Get the source code (GitHub)](https://github.com/Microsoft/Xaml-Controls-Gallery)
 
+<br>
 
 #### Windows 8 Windows Presentation Foundation (WPF) Resources
 
 * [WPF XAML Behaviors](https://github.com/microsoft/XamlBehaviorsWpf)
+
+<br>
 
 #### Windows 10 Universal Windows Platform (UWP) Resources
 
@@ -53,6 +52,7 @@ All Visual Studio projects contained in this repository require the following re
 
 * [Windows UI Library: the latest Windows 10 native controls and Fluent styles for your applications](https://github.com/microsoft/microsoft-ui-xaml)
 
+<br>
 
 #### Examples
 
