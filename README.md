@@ -34,6 +34,11 @@ All Visual Studio projects contained in this repository require the following re
 * [Windows UI Library (WinUI) Specs](https://github.com/microsoft/microsoft-ui-xaml-specs)
 
 
+* [XAML Controls Gallery](https://docs.microsoft.com/en-us/windows/uwp/design/controls-and-patterns/index)
+  * [Get the XAML Controls Gallery app (Microsoft Store)](https://www.microsoft.com/store/productId/9MSVH128X2ZT)
+  * [Get the source code (GitHub)](https://github.com/Microsoft/Xaml-Controls-Gallery)
+
+
 #### Windows 8 Windows Presentation Foundation (WPF) Resources
 
 * [WPF XAML Behaviors](https://github.com/microsoft/XamlBehaviorsWpf)
