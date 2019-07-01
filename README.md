@@ -34,10 +34,13 @@ All Visual Studio projects contained in this repository require the following re
 #### XAML Resources
 
 * [XAML Standard : a set of principles that drive XAML dialect alignment](https://github.com/microsoft/xaml-standard)
+
 * [Windows UI Library (WinUI) Specs](https://github.com/microsoft/microsoft-ui-xaml-specs)
+
 * [XAML Controls Gallery for Universal Windows Platform (UWP)](https://docs.microsoft.com/en-us/windows/uwp/design/controls-and-patterns/index)
   * [Get the XAML Controls Gallery app (Microsoft Store)](https://www.microsoft.com/store/productId/9MSVH128X2ZT)
   * [Get the source code (GitHub)](https://github.com/Microsoft/Xaml-Controls-Gallery)
+
 * [Notifications Visualizer to help design adaptive live tiles and interactive toasts for Windows 10](https://www.microsoft.com/en-us/store/apps/notifications-visualizer/9nblggh5xsl1)  
 
 <br>
