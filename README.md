@@ -59,6 +59,17 @@ All Visual Studio projects contained in this repository require the following re
 
 <br>
 
+
+#### Migrate apps from Windows Presentation Foundation (WPF) to the Universal Windows Platform (UWP)
+
+* [Migrate Apps to Universal Windows Platform (UWP) Microsoft Docs](https://docs.microsoft.com/en-us/visualstudio/misc/migrate-apps-to-the-universal-windows-platform-uwp
+)
+
+* [PowerShell Script to upgrade V8.1 csproj and manifest to UWP by Andy Wigley](https://github.com/Win10DevGuideMVA/ProjectUpgradeUtility)
+
+<br>
+
+
 #### Examples
 
 * [Lab for modernizing Desktop app with XAML Islands.](https://github.com/microsoft/Windows-AppConsult-XAMLIslandsLab)
