@@ -30,7 +30,7 @@ All Visual Studio projects contained in this repository require the following re
 
 * [XAML Standard : a set of principles that drive XAML dialect alignment](https://github.com/microsoft/xaml-standard)
 * [Windows UI Library (WinUI) Specs](https://github.com/microsoft/microsoft-ui-xaml-specs)
-* [XAML Controls Gallery](https://docs.microsoft.com/en-us/windows/uwp/design/controls-and-patterns/index)
+* [XAML Controls Gallery for Universal Windows Platform (UWP)](https://docs.microsoft.com/en-us/windows/uwp/design/controls-and-patterns/index)
   * [Get the XAML Controls Gallery app (Microsoft Store)](https://www.microsoft.com/store/productId/9MSVH128X2ZT)
   * [Get the source code (GitHub)](https://github.com/Microsoft/Xaml-Controls-Gallery)
 
