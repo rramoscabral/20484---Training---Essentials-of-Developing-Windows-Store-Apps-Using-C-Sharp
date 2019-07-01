@@ -38,6 +38,7 @@ All Visual Studio projects contained in this repository require the following re
 * [XAML Controls Gallery for Universal Windows Platform (UWP)](https://docs.microsoft.com/en-us/windows/uwp/design/controls-and-patterns/index)
   * [Get the XAML Controls Gallery app (Microsoft Store)](https://www.microsoft.com/store/productId/9MSVH128X2ZT)
   * [Get the source code (GitHub)](https://github.com/Microsoft/Xaml-Controls-Gallery)
+* [Notifications Visualizer to help design adaptive live tiles and interactive toasts for Windows 10](https://www.microsoft.com/en-us/store/apps/notifications-visualizer/9nblggh5xsl1)  
 
 <br>
 
@@ -80,3 +81,5 @@ All Visual Studio projects contained in this repository require the following re
 * [UWP Windows Composition Sample using Windows.UI.Xaml and Windows.UI.Composition](https://github.com/microsoft/WindowsCompositionSamples)
 
 * [Working customer order database using Azure and XAML](https://github.com/microsoft/Windows-appsample-customers-orders-database)
+
+ * [Microsoft Universal Windows Platform (UWP) app samples](https://github.com/Microsoft/Windows-universal-samples/)
