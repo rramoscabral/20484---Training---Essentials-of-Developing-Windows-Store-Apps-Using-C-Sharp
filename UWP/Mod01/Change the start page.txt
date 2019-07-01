@@ -1,0 +1,14 @@
+At App.xaml.cs
+
+Code:
+if (rootFrame.Content == null)
+    {
+        // When the navigation stack isn't restored navigate to the first page,
+        // configuring the new page by passing required information as a navigation
+        // parameter
+        rootFrame.Navigate(typeof(MainPage), e.Arguments);
+    }
+	
+Refereces:
+  - How to: Get and Set the Main Application Window
+		https://docs.microsoft.com/en-us/dotnet/framework/wpf/app-development/how-to-get-and-set-the-main-application-window
