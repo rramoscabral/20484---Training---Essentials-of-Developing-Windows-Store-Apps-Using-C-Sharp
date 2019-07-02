@@ -1,0 +1,1 @@
+C:\Users\Admin\source\repos\UWP-DataBindingDemo\UWP-DataBindingDemo\UWP-DataBindingDemo.csproj;x86

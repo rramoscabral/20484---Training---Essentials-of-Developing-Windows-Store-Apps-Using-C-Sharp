@@ -1,0 +1,28 @@
+﻿<Page
+    x:Class="UWP_DataBindingDemo.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:UWP_DataBindingDemo"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid Background="AliceBlue">
+
+        <!-- Stack Panel: Organiza elementos filho em uma única linha 
+        que pode ser orientada horizontalmente ou verticalmente. -->
+        <StackPanel>
+            <TextBox x:Name="txtBox1" HorizontalAlignment="Center" VerticalAlignment="Center" Width="1000" FontSize="30" />
+               
+            <!-- TextBlock: Fornece um controlo para mostar texto. Não permite a sua edição. -->
+            <!-- <TextBlock x:Name="txtBlock1" HorizontalAlignment="Center" VerticalAlignment="Center" Width="1000" FontSize="30"/> -->
+                 
+            <!-- O Data Binding  {Binding <Nome-do-Elemento>} vai replicar tudo 
+            o que é inserido no elemento txtBox1 no elemento txtBlock1, o Path define o valor interpretado. -->
+            <TextBlock x:Name="txtBlock1" HorizontalAlignment="Center" VerticalAlignment="Center" Width="1000" FontSize="30" 
+                       Text="{Binding ElementName=txtBox1, Path=Text}"/>
+
+        </StackPanel>
+    </Grid>
+</Page>
