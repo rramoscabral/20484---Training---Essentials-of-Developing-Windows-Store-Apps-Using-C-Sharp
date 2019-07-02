@@ -1,0 +1,1 @@
+C:\Users\Admin\source\repos\UWP-BarDemo\UWP-AppBarDemo\UWP-AppBarAndCommandBarDemo.csproj;x86
