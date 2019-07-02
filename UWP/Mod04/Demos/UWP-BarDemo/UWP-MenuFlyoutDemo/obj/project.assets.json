@@ -27968,11 +27968,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\UWP-BarDemo\\UWP-MenuFlyoutDemo\\UWP-MenuFlyoutDemo.csproj",
+      "projectUniqueName": "C:\\20484-Training---Essentials-of-Developing-Windows-Store-Apps-Using-C-Sharp\\UWP\\Mod04\\Demos\\UWP-BarDemo\\UWP-MenuFlyoutDemo\\UWP-MenuFlyoutDemo.csproj",
       "projectName": "UWP-MenuFlyoutDemo",
-      "projectPath": "C:\\Users\\Admin\\source\\repos\\UWP-BarDemo\\UWP-MenuFlyoutDemo\\UWP-MenuFlyoutDemo.csproj",
+      "projectPath": "C:\\20484-Training---Essentials-of-Developing-Windows-Store-Apps-Using-C-Sharp\\UWP\\Mod04\\Demos\\UWP-BarDemo\\UWP-MenuFlyoutDemo\\UWP-MenuFlyoutDemo.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\source\\repos\\UWP-BarDemo\\UWP-MenuFlyoutDemo\\obj\\",
+      "outputPath": "C:\\20484-Training---Essentials-of-Developing-Windows-Store-Apps-Using-C-Sharp\\UWP\\Mod04\\Demos\\UWP-BarDemo\\UWP-MenuFlyoutDemo\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [

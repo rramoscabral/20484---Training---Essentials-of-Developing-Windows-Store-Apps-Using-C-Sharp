@@ -11,8 +11,8 @@
         <Button Content="Menu" FontSize="30" Width="200" Height="140">
             <Button.Flyout>
                 <MenuFlyout Placement="Bottom" >
-                        <MenuFlyoutItem x:ConnectionId='2' Text="Menu 1"                               />
-                        <MenuFlyoutItem x:ConnectionId='3' Text="Menu 2"                               />
+                        <MenuFlyoutItem x:ConnectionId='2' Text="Sub Menu 1"                               />
+                        <MenuFlyoutItem x:ConnectionId='3' Text="Sub Menu 2"                               />
                 </MenuFlyout>
             </Button.Flyout>
         </Button>

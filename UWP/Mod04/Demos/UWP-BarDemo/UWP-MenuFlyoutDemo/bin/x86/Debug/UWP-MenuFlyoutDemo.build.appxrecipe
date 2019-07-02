@@ -10,22 +10,22 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>7a830952-9c01-4aff-919f-fe5ccc5f348d</PackageIdentityName>
     <PackageIdentityPublisher>CN=Admin</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\Admin\source\repos\UWP-BarDemo\UWP-MenuFlyoutDemo\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\20484-Training---Essentials-of-Developing-Windows-Store-Apps-Using-C-Sharp\UWP\Mod04\Demos\UWP-BarDemo\UWP-MenuFlyoutDemo\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType></RemoteDeploymentType>
     <PackageRegistrationPath></PackageRegistrationPath>
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\Users\Admin\source\repos\UWP-BarDemo\UWP-MenuFlyoutDemo\bin\x86\Debug\AppX</LayoutDir>
+    <LayoutDir>C:\20484-Training---Essentials-of-Developing-Windows-Store-Apps-Using-C-Sharp\UWP\Mod04\Demos\UWP-BarDemo\UWP-MenuFlyoutDemo\bin\x86\Debug\AppX</LayoutDir>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\Admin\source\repos\UWP-BarDemo\UWP-MenuFlyoutDemo\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\20484-Training---Essentials-of-Developing-Windows-Store-Apps-Using-C-Sharp\UWP\Mod04\Demos\UWP-BarDemo\UWP-MenuFlyoutDemo\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\Admin\source\repos\UWP-BarDemo\UWP-MenuFlyoutDemo\bin\x86\Debug\UWP-MenuFlyoutDemo.exe">
+    <AppxPackagedFile Include="C:\20484-Training---Essentials-of-Developing-Windows-Store-Apps-Using-C-Sharp\UWP\Mod04\Demos\UWP-BarDemo\UWP-MenuFlyoutDemo\bin\x86\Debug\UWP-MenuFlyoutDemo.exe">
       <PackagePath>entrypoint\UWP-MenuFlyoutDemo.exe</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Admin\.nuget\packages\microsoft.csharp\4.0.1\lib\netcore50\Microsoft.CSharp.dll">
@@ -370,52 +370,52 @@
     <AppxPackagedFile Include="C:\Users\Admin\.nuget\packages\system.xml.xmlserializer\4.0.11\lib\netcore50\System.Xml.XmlSerializer.dll">
       <PackagePath>System.Xml.XmlSerializer.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Admin\source\repos\UWP-BarDemo\UWP-MenuFlyoutDemo\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\20484-Training---Essentials-of-Developing-Windows-Store-Apps-Using-C-Sharp\UWP\Mod04\Demos\UWP-BarDemo\UWP-MenuFlyoutDemo\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Admin\source\repos\UWP-BarDemo\UWP-MenuFlyoutDemo\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\20484-Training---Essentials-of-Developing-Windows-Store-Apps-Using-C-Sharp\UWP\Mod04\Demos\UWP-BarDemo\UWP-MenuFlyoutDemo\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Admin\source\repos\UWP-BarDemo\UWP-MenuFlyoutDemo\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\20484-Training---Essentials-of-Developing-Windows-Store-Apps-Using-C-Sharp\UWP\Mod04\Demos\UWP-BarDemo\UWP-MenuFlyoutDemo\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Admin\source\repos\UWP-BarDemo\UWP-MenuFlyoutDemo\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\20484-Training---Essentials-of-Developing-Windows-Store-Apps-Using-C-Sharp\UWP\Mod04\Demos\UWP-BarDemo\UWP-MenuFlyoutDemo\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Admin\source\repos\UWP-BarDemo\UWP-MenuFlyoutDemo\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\20484-Training---Essentials-of-Developing-Windows-Store-Apps-Using-C-Sharp\UWP\Mod04\Demos\UWP-BarDemo\UWP-MenuFlyoutDemo\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Admin\source\repos\UWP-BarDemo\UWP-MenuFlyoutDemo\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\20484-Training---Essentials-of-Developing-Windows-Store-Apps-Using-C-Sharp\UWP\Mod04\Demos\UWP-BarDemo\UWP-MenuFlyoutDemo\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Admin\source\repos\UWP-BarDemo\UWP-MenuFlyoutDemo\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\20484-Training---Essentials-of-Developing-Windows-Store-Apps-Using-C-Sharp\UWP\Mod04\Demos\UWP-BarDemo\UWP-MenuFlyoutDemo\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Admin\source\repos\UWP-BarDemo\UWP-MenuFlyoutDemo\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\20484-Training---Essentials-of-Developing-Windows-Store-Apps-Using-C-Sharp\UWP\Mod04\Demos\UWP-BarDemo\UWP-MenuFlyoutDemo\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Admin\source\repos\UWP-BarDemo\UWP-MenuFlyoutDemo\bin\x86\Debug\UWP-MenuFlyoutDemo.xr.xml">
+    <AppxPackagedFile Include="C:\20484-Training---Essentials-of-Developing-Windows-Store-Apps-Using-C-Sharp\UWP\Mod04\Demos\UWP-BarDemo\UWP-MenuFlyoutDemo\bin\x86\Debug\UWP-MenuFlyoutDemo.xr.xml">
       <PackagePath>UWP-MenuFlyoutDemo.xr.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Admin\source\repos\UWP-BarDemo\UWP-MenuFlyoutDemo\bin\x86\Debug\App.xbf">
+    <AppxPackagedFile Include="C:\20484-Training---Essentials-of-Developing-Windows-Store-Apps-Using-C-Sharp\UWP\Mod04\Demos\UWP-BarDemo\UWP-MenuFlyoutDemo\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Admin\source\repos\UWP-BarDemo\UWP-MenuFlyoutDemo\bin\x86\Debug\MainPage.xbf">
+    <AppxPackagedFile Include="C:\20484-Training---Essentials-of-Developing-Windows-Store-Apps-Using-C-Sharp\UWP\Mod04\Demos\UWP-BarDemo\UWP-MenuFlyoutDemo\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.17134.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Admin\source\repos\UWP-BarDemo\UWP-MenuFlyoutDemo\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\20484-Training---Essentials-of-Developing-Windows-Store-Apps-Using-C-Sharp\UWP\Mod04\Demos\UWP-BarDemo\UWP-MenuFlyoutDemo\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Admin\source\repos\UWP-BarDemo\UWP-MenuFlyoutDemo\bin\x86\Debug\Core\UWP-MenuFlyoutDemo.exe">
+    <AppxPackagedFile Include="C:\20484-Training---Essentials-of-Developing-Windows-Store-Apps-Using-C-Sharp\UWP\Mod04\Demos\UWP-BarDemo\UWP-MenuFlyoutDemo\bin\x86\Debug\Core\UWP-MenuFlyoutDemo.exe">
       <PackagePath>UWP-MenuFlyoutDemo.exe</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>

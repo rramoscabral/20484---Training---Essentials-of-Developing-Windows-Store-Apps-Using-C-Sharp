@@ -1,0 +1,1 @@
+C:\20484-GITHUB-MFILES\UWP\ILoveNotes - Windows 8.1 RTM Build\ILoveNotes\ILoveNotes.csproj;x86

@@ -10,7 +10,7 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>b62a8851-a3b6-4cce-a1f2-4480fb674ec8</PackageIdentityName>
     <PackageIdentityPublisher>CN=Admin</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\Admin\source\repos\UWP-BarDemo\UWP-AppBarDemo\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\20484-Training---Essentials-of-Developing-Windows-Store-Apps-Using-C-Sharp\UWP\Mod04\Demos\UWP-BarDemo\UWP-AppBarDemo\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType>
     </RemoteDeploymentType>
     <PackageRegistrationPath>
@@ -18,7 +18,7 @@
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\Users\Admin\source\repos\UWP-BarDemo\UWP-AppBarDemo\bin\x86\Debug\AppX</LayoutDir>
+    <LayoutDir>C:\20484-Training---Essentials-of-Developing-Windows-Store-Apps-Using-C-Sharp\UWP\Mod04\Demos\UWP-BarDemo\UWP-AppBarDemo\bin\x86\Debug\AppX</LayoutDir>
     <RegisteredManifestChecksum>5DA6F9D3D6FEED589CE1E6BECB99278446A7566BF23A5C8210D538EBDB3BC541</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>b62a8851-a3b6-4cce-a1f2-4480fb674ec8_1.0.0.0_x86__5gyrq6psz227t</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>b62a8851-a3b6-4cce-a1f2-4480fb674ec8_5gyrq6psz227t!App</RegisteredUserModeAppID>
@@ -27,16 +27,16 @@
     <RegisteredVersion>1.0.0.0</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\Admin\source\repos\UWP-BarDemo\UWP-AppBarDemo\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\20484-Training---Essentials-of-Developing-Windows-Store-Apps-Using-C-Sharp\UWP\Mod04\Demos\UWP-BarDemo\UWP-AppBarDemo\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2019-07-02T08:02:02.207</Modified>
+      <Modified>2019-07-02T10:52:27.867</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\Admin\source\repos\UWP-BarDemo\UWP-AppBarDemo\bin\x86\Debug\UWP-AppBarDemo.exe">
+    <AppxPackagedFile Include="C:\20484-Training---Essentials-of-Developing-Windows-Store-Apps-Using-C-Sharp\UWP\Mod04\Demos\UWP-BarDemo\UWP-AppBarDemo\bin\x86\Debug\UWP-AppBarDemo.exe">
       <PackagePath>entrypoint\UWP-AppBarDemo.exe</PackagePath>
-      <Modified>2019-07-02T08:01:59.923</Modified>
+      <Modified>2019-07-02T10:52:17.998</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Admin\.nuget\packages\microsoft.csharp\4.0.1\lib\netcore50\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -494,67 +494,67 @@
       <PackagePath>System.Xml.XmlSerializer.dll</PackagePath>
       <Modified>2016-06-11T22:15:04.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Admin\source\repos\UWP-BarDemo\UWP-AppBarDemo\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\20484-Training---Essentials-of-Developing-Windows-Store-Apps-Using-C-Sharp\UWP\Mod04\Demos\UWP-BarDemo\UWP-AppBarDemo\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
       <Modified>2019-07-02T07:38:29.577</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Admin\source\repos\UWP-BarDemo\UWP-AppBarDemo\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\20484-Training---Essentials-of-Developing-Windows-Store-Apps-Using-C-Sharp\UWP\Mod04\Demos\UWP-BarDemo\UWP-AppBarDemo\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
       <Modified>2019-06-17T14:34:57.522</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Admin\source\repos\UWP-BarDemo\UWP-AppBarDemo\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\20484-Training---Essentials-of-Developing-Windows-Store-Apps-Using-C-Sharp\UWP\Mod04\Demos\UWP-BarDemo\UWP-AppBarDemo\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2019-06-17T14:34:57.522</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Admin\source\repos\UWP-BarDemo\UWP-AppBarDemo\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\20484-Training---Essentials-of-Developing-Windows-Store-Apps-Using-C-Sharp\UWP\Mod04\Demos\UWP-BarDemo\UWP-AppBarDemo\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2019-06-17T14:34:57.522</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Admin\source\repos\UWP-BarDemo\UWP-AppBarDemo\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\20484-Training---Essentials-of-Developing-Windows-Store-Apps-Using-C-Sharp\UWP\Mod04\Demos\UWP-BarDemo\UWP-AppBarDemo\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2019-06-17T14:34:57.522</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Admin\source\repos\UWP-BarDemo\UWP-AppBarDemo\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\20484-Training---Essentials-of-Developing-Windows-Store-Apps-Using-C-Sharp\UWP\Mod04\Demos\UWP-BarDemo\UWP-AppBarDemo\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2019-06-17T14:34:57.522</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Admin\source\repos\UWP-BarDemo\UWP-AppBarDemo\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\20484-Training---Essentials-of-Developing-Windows-Store-Apps-Using-C-Sharp\UWP\Mod04\Demos\UWP-BarDemo\UWP-AppBarDemo\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2019-06-17T14:34:57.522</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Admin\source\repos\UWP-BarDemo\UWP-AppBarDemo\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\20484-Training---Essentials-of-Developing-Windows-Store-Apps-Using-C-Sharp\UWP\Mod04\Demos\UWP-BarDemo\UWP-AppBarDemo\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2019-06-17T14:34:57.522</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Admin\source\repos\UWP-BarDemo\UWP-AppBarDemo\bin\x86\Debug\UWP-AppBarDemo.xr.xml">
+    <AppxPackagedFile Include="C:\20484-Training---Essentials-of-Developing-Windows-Store-Apps-Using-C-Sharp\UWP\Mod04\Demos\UWP-BarDemo\UWP-AppBarDemo\bin\x86\Debug\UWP-AppBarDemo.xr.xml">
       <PackagePath>UWP-AppBarDemo.xr.xml</PackagePath>
       <Modified>2019-07-02T07:55:01.970</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Admin\source\repos\UWP-BarDemo\UWP-AppBarDemo\bin\x86\Debug\App.xbf">
+    <AppxPackagedFile Include="C:\20484-Training---Essentials-of-Developing-Windows-Store-Apps-Using-C-Sharp\UWP\Mod04\Demos\UWP-BarDemo\UWP-AppBarDemo\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2019-07-02T08:01:59.622</Modified>
+      <Modified>2019-07-02T10:52:17.616</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Admin\source\repos\UWP-BarDemo\UWP-AppBarDemo\bin\x86\Debug\MainPage.xbf">
+    <AppxPackagedFile Include="C:\20484-Training---Essentials-of-Developing-Windows-Store-Apps-Using-C-Sharp\UWP\Mod04\Demos\UWP-BarDemo\UWP-AppBarDemo\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2019-07-02T08:01:59.623</Modified>
+      <Modified>2019-07-02T10:52:17.618</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.17134.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
       <Modified>2018-04-19T21:01:52.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Admin\source\repos\UWP-BarDemo\UWP-AppBarDemo\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\20484-Training---Essentials-of-Developing-Windows-Store-Apps-Using-C-Sharp\UWP\Mod04\Demos\UWP-BarDemo\UWP-AppBarDemo\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2019-07-02T08:02:01.469</Modified>
+      <Modified>2019-07-02T10:52:25.141</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Admin\source\repos\UWP-BarDemo\UWP-AppBarDemo\bin\x86\Debug\Core\UWP-AppBarDemo.exe">
+    <AppxPackagedFile Include="C:\20484-Training---Essentials-of-Developing-Windows-Store-Apps-Using-C-Sharp\UWP\Mod04\Demos\UWP-BarDemo\UWP-AppBarDemo\bin\x86\Debug\Core\UWP-AppBarDemo.exe">
       <PackagePath>UWP-AppBarDemo.exe</PackagePath>
-      <Modified>2019-07-02T08:02:02.196</Modified>
+      <Modified>2019-07-02T10:52:27.520</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

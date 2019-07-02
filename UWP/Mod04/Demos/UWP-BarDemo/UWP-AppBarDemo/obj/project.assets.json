@@ -27968,11 +27968,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\UWP-BarDemo\\UWP-AppBarDemo\\UWP-AppBarAndCommandBarDemo.csproj",
+      "projectUniqueName": "C:\\20484-Training---Essentials-of-Developing-Windows-Store-Apps-Using-C-Sharp\\UWP\\Mod04\\Demos\\UWP-BarDemo\\UWP-AppBarDemo\\UWP-AppBarAndCommandBarDemo.csproj",
       "projectName": "UWP-AppBarAndCommandBarDemo",
-      "projectPath": "C:\\Users\\Admin\\source\\repos\\UWP-BarDemo\\UWP-AppBarDemo\\UWP-AppBarAndCommandBarDemo.csproj",
+      "projectPath": "C:\\20484-Training---Essentials-of-Developing-Windows-Store-Apps-Using-C-Sharp\\UWP\\Mod04\\Demos\\UWP-BarDemo\\UWP-AppBarDemo\\UWP-AppBarAndCommandBarDemo.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\source\\repos\\UWP-BarDemo\\UWP-AppBarDemo\\obj\\",
+      "outputPath": "C:\\20484-Training---Essentials-of-Developing-Windows-Store-Apps-Using-C-Sharp\\UWP\\Mod04\\Demos\\UWP-BarDemo\\UWP-AppBarDemo\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [

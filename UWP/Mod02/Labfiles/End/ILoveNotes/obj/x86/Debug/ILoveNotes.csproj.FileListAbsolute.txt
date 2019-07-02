@@ -1,0 +1,532 @@
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\Data\GettingStarted.zip
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\App.xbf
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\Common\CustomStyles.xbf
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\Controls\AboutPage.xbf
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\Controls\TagsControl.xbf
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\Controls\ToDoControl.xbf
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\Pages\GroupedItemsPage.xbf
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\Pages\GroupDetailPage.xbf
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\Pages\ItemDetailPage.xbf
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\Pages\RestoreWorkingPage.xbf
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\Pages\Splash.xbf
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\ILoveNotes.xr.xml
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\ILoveNotes.exe
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\ILoveNotes.pdb
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\resources.pri
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\AppxManifest.xml
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\Microsoft.ApplicationInsights.dll
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\Microsoft.ApplicationInsights.PersistenceChannel.dll
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\Microsoft.ApplicationInsights.Extensibility.Windows.dll
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\Microsoft.CSharp.dll
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.ComponentModel.DataAnnotations.dll
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Core.dll
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Net.dll
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Numerics.dll
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Runtime.Serialization.dll
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.ServiceModel.Web.dll
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.ServiceModel.dll
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Windows.dll
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Xml.Linq.dll
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Xml.Serialization.dll
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Xml.dll
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.dll
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\Microsoft.VisualBasic.dll
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\NotificationsExtensions.winmd
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\NotificationsExtensions.Win10.dll
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\NotificationsExtensions.Win10.pdb
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Collections.dll
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Diagnostics.Tools.dll
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Diagnostics.Tracing.dll
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Globalization.dll
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Globalization.Calendars.dll
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.IO.dll
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Reflection.dll
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Reflection.Extensions.dll
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Reflection.Primitives.dll
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Resources.ResourceManager.dll
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Runtime.dll
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Runtime.Handles.dll
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Runtime.InteropServices.dll
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Text.Encoding.dll
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Text.Encoding.Extensions.dll
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Threading.Tasks.dll
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Threading.Timer.dll
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\Microsoft.Win32.Primitives.dll
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Diagnostics.Debug.dll
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.IO.FileSystem.dll
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Net.Primitives.dll
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Net.Sockets.dll
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Runtime.Extensions.dll
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\clrjit.dll
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Private.Uri.dll
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.AppContext.dll
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Buffers.dll
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Collections.Concurrent.dll
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Collections.Immutable.dll
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Collections.NonGeneric.dll
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Collections.Specialized.dll
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.ComponentModel.dll
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.ComponentModel.Annotations.dll
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Data.Common.dll
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Diagnostics.Contracts.dll
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Diagnostics.StackTrace.dll
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Dynamic.Runtime.dll
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Globalization.Extensions.dll
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.IO.Compression.dll
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.IO.Compression.ZipFile.dll
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.IO.FileSystem.Primitives.dll
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.IO.IsolatedStorage.dll
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Linq.dll
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Linq.Expressions.dll
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Linq.Parallel.dll
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Linq.Queryable.dll
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Net.Http.dll
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Net.Http.Rtc.dll
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Net.NameResolution.dll
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Net.NetworkInformation.dll
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Net.Requests.dll
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Net.WebHeaderCollection.dll
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Net.WebSockets.dll
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Net.WebSockets.Client.dll
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Numerics.Vectors.dll
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.ObjectModel.dll
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Private.DataContractSerialization.dll
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Private.ServiceModel.dll
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Reflection.Context.dll
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Reflection.DispatchProxy.dll
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Reflection.Emit.dll
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Reflection.Emit.ILGeneration.dll
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Reflection.Emit.Lightweight.dll
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Reflection.Metadata.dll
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Reflection.TypeExtensions.dll
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Runtime.Numerics.dll
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Runtime.Serialization.Json.dll
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Runtime.Serialization.Primitives.dll
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Runtime.Serialization.Xml.dll
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Runtime.WindowsRuntime.dll
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Security.Claims.dll
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Security.Cryptography.Algorithms.dll
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Security.Cryptography.Cng.dll
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Security.Cryptography.Encoding.dll
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Security.Cryptography.Primitives.dll
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Security.Principal.dll
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.ServiceModel.Duplex.dll
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.ServiceModel.Http.dll
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.ServiceModel.NetTcp.dll
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.ServiceModel.Primitives.dll
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.ServiceModel.Security.dll
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Text.Encoding.CodePages.dll
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Text.RegularExpressions.dll
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Threading.dll
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Threading.Overlapped.dll
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Threading.Tasks.Dataflow.dll
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Threading.Tasks.Extensions.dll
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Threading.Tasks.Parallel.dll
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Xml.ReaderWriter.dll
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Xml.XDocument.dll
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Xml.XmlDocument.dll
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Xml.XmlSerializer.dll
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\CompressionManager.winmd
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\ILoveNotes.csprojAssemblyReference.cache
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\App.g.i.cs
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\App.g.cs
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\Controls\AboutPage.g.i.cs
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\Controls\AboutPage.g.cs
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\Controls\TagsControl.g.i.cs
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\Controls\TagsControl.g.cs
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\Controls\ToDoControl.g.i.cs
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\Controls\ToDoControl.g.cs
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\Pages\GroupedItemsPage.g.i.cs
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\Pages\GroupedItemsPage.g.cs
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\Pages\GroupDetailPage.g.i.cs
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\Pages\GroupDetailPage.g.cs
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\Pages\ItemDetailPage.g.i.cs
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\Pages\ItemDetailPage.g.cs
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\Pages\RestoreWorkingPage.g.i.cs
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\Pages\RestoreWorkingPage.g.cs
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\Pages\Splash.g.i.cs
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\Pages\Splash.g.cs
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\App.xaml
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\Common\CustomStyles.xaml
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\Controls\AboutPage.xaml
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\Controls\TagsControl.xaml
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\Controls\ToDoControl.xaml
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\Pages\GroupedItemsPage.xaml
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\Pages\GroupDetailPage.xaml
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\Pages\ItemDetailPage.xaml
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\Pages\RestoreWorkingPage.xaml
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\Pages\Splash.xaml
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\App.xbf
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\Common\CustomStyles.xbf
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\Controls\AboutPage.xbf
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\Controls\TagsControl.xbf
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\Controls\ToDoControl.xbf
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\Pages\GroupedItemsPage.xbf
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\Pages\GroupDetailPage.xbf
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\Pages\ItemDetailPage.xbf
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\Pages\RestoreWorkingPage.xbf
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\Pages\Splash.xbf
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\XamlSaveStateFile.xml
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\ILoveNotes.csproj.CoreCompileInputs.cache
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\ILoveNotes.csproj.CopyComplete
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\ILoveNotes.exe
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\ILoveNotes.pdb
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\ResourceHandlingTask.state
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\FxResources.Microsoft.CSharp.SR.resw
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\FxResources.Microsoft.VisualBasic.SR.resw
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\FxResources.System.Collections.SR.resw
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\FxResources.System.IO.SR.resw
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\FxResources.System.Runtime.InteropServices.SR.resw
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\FxResources.System.Diagnostics.Debug.SR.resw
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\FxResources.System.IO.FileSystem.SR.resw
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\FxResources.System.Net.Primitives.SR.resw
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\FxResources.System.Net.Sockets.SR.resw
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\FxResources.System.Runtime.Extensions.SR.resw
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\FxResources.System.Private.Uri.SR.resw
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\FxResources.System.Buffers.SR.resw
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\FxResources.System.Collections.Concurrent.SR.resw
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\FxResources.System.Collections.Immutable.SR.resw
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\FxResources.System.Collections.NonGeneric.SR.resw
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\FxResources.System.Collections.Specialized.SR.resw
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\FxResources.System.ComponentModel.Annotations.SR.resw
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\FxResources.System.Data.Common.SR.resw
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\FxResources.System.Dynamic.Runtime.SR.resw
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\FxResources.System.Globalization.Extensions.SR.resw
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\FxResources.System.IO.Compression.SR.resw
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\FxResources.System.IO.Compression.ZipFile.SR.resw
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\FxResources.System.IO.IsolatedStorage.SR.resw
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\FxResources.System.IO.UnmanagedMemoryStream.SR.resw
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\FxResources.System.Linq.SR.resw
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\FxResources.System.Linq.Expressions.SR.resw
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\FxResources.System.Linq.Parallel.SR.resw
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\FxResources.System.Linq.Queryable.SR.resw
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\FxResources.System.Net.Http.SR.resw
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\FxResources.System.Net.NameResolution.SR.resw
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\FxResources.System.Net.NetworkInformation.SR.resw
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\FxResources.System.Net.Requests.SR.resw
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\FxResources.System.Net.WebHeaderCollection.SR.resw
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\FxResources.System.Net.WebSockets.SR.resw
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\FxResources.System.Net.WebSockets.Client.SR.resw
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\FxResources.System.Numerics.Vectors.SR.resw
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\FxResources.System.ObjectModel.SR.resw
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\FxResources.System.Private.DataContractSerialization.SR.resw
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\FxResources.System.Private.ServiceModel.SR.resw
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\FxResources.System.Reflection.DispatchProxy.SR.resw
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\FxResources.System.Reflection.Metadata.SR.resw
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\FxResources.System.Runtime.Numerics.SR.resw
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.SR.resw
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\FxResources.System.Security.Claims.SR.resw
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\FxResources.System.Security.Cryptography.Algorithms.SR.resw
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\FxResources.System.Security.Cryptography.Cng.SR.resw
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\FxResources.System.Security.Cryptography.Encoding.SR.resw
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\FxResources.System.Security.Cryptography.Primitives.SR.resw
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\FxResources.System.Security.Cryptography.X509Certificates.SR.resw
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\FxResources.System.Text.RegularExpressions.SR.resw
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\FxResources.System.Threading.SR.resw
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\FxResources.System.Threading.Overlapped.SR.resw
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\FxResources.System.Threading.Tasks.Parallel.SR.resw
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\FxResources.System.Xml.ReaderWriter.SR.resw
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\FxResources.System.Xml.XDocument.SR.resw
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\FxResources.System.Xml.XmlDocument.SR.resw
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\FxResources.System.Xml.XmlSerializer.SR.resw
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\ILoveNotes.csproj.GenerateResource.Cache
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\priconfig.xml
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\priconfig.xml.intermediate
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\unfiltered.layout.resfiles
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\filtered.layout.resfiles
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\excluded.layout.resfiles
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\resources.resfiles
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\resources.resfiles.intermediate
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\pri.resfiles
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\pri.resfiles.intermediate
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\qualifiers.txt
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\qualifiers.txt.intermediate
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\ProjectArchitectures.txt
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\.winmd_cache\$CompressionManager.winmd_635222259077478328.json
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\.winmd_cache\$NotificationsExtensions.winmd_635442449240000000.json
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\Core\AppxManifest.xml
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\Core\ILoveNotes.exe
+C:\20484C\All Files Converted to UWP Windows 10\Windows 10 UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\ILoveNotes.build.appxrecipe
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\Data\GettingStarted.zip
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\App.xbf
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\Common\CustomStyles.xbf
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\Controls\AboutPage.xbf
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\Controls\TagsControl.xbf
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\Controls\ToDoControl.xbf
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\Pages\GroupedItemsPage.xbf
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\Pages\GroupDetailPage.xbf
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\Pages\ItemDetailPage.xbf
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\Pages\RestoreWorkingPage.xbf
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\Pages\Splash.xbf
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\ILoveNotes.xr.xml
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\ILoveNotes.exe
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\ILoveNotes.pdb
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\resources.pri
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\AppxManifest.xml
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\Core\AppxManifest.xml
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\Core\ILoveNotes.exe
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\ILoveNotes.build.appxrecipe
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\Microsoft.ApplicationInsights.dll
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\Microsoft.ApplicationInsights.PersistenceChannel.dll
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\Microsoft.ApplicationInsights.Extensibility.Windows.dll
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\Microsoft.CSharp.dll
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.ComponentModel.DataAnnotations.dll
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Core.dll
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Net.dll
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Numerics.dll
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Runtime.Serialization.dll
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.ServiceModel.Web.dll
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.ServiceModel.dll
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Windows.dll
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Xml.Linq.dll
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Xml.Serialization.dll
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Xml.dll
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.dll
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\Microsoft.VisualBasic.dll
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\NotificationsExtensions.winmd
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\NotificationsExtensions.Win10.dll
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\NotificationsExtensions.Win10.pdb
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Collections.dll
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Diagnostics.Tools.dll
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Diagnostics.Tracing.dll
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Globalization.dll
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Globalization.Calendars.dll
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.IO.dll
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Reflection.dll
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Reflection.Extensions.dll
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Reflection.Primitives.dll
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Resources.ResourceManager.dll
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Runtime.dll
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Runtime.Handles.dll
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Runtime.InteropServices.dll
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Text.Encoding.dll
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Text.Encoding.Extensions.dll
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Threading.Tasks.dll
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Threading.Timer.dll
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\Microsoft.Win32.Primitives.dll
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Diagnostics.Debug.dll
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.IO.FileSystem.dll
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Net.Primitives.dll
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Net.Sockets.dll
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Runtime.Extensions.dll
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\clrjit.dll
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Private.Uri.dll
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.AppContext.dll
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Buffers.dll
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Collections.Concurrent.dll
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Collections.Immutable.dll
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Collections.NonGeneric.dll
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Collections.Specialized.dll
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.ComponentModel.dll
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.ComponentModel.Annotations.dll
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Data.Common.dll
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Diagnostics.Contracts.dll
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Diagnostics.StackTrace.dll
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Dynamic.Runtime.dll
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Globalization.Extensions.dll
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.IO.Compression.dll
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.IO.Compression.ZipFile.dll
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.IO.FileSystem.Primitives.dll
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.IO.IsolatedStorage.dll
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Linq.dll
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Linq.Expressions.dll
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Linq.Parallel.dll
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Linq.Queryable.dll
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Net.Http.dll
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Net.Http.Rtc.dll
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Net.NameResolution.dll
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Net.NetworkInformation.dll
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Net.Requests.dll
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Net.WebHeaderCollection.dll
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Net.WebSockets.dll
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Net.WebSockets.Client.dll
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Numerics.Vectors.dll
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.ObjectModel.dll
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Private.DataContractSerialization.dll
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Private.ServiceModel.dll
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Reflection.Context.dll
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Reflection.DispatchProxy.dll
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Reflection.Emit.dll
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Reflection.Emit.ILGeneration.dll
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Reflection.Emit.Lightweight.dll
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Reflection.Metadata.dll
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Reflection.TypeExtensions.dll
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Runtime.Numerics.dll
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Runtime.Serialization.Json.dll
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Runtime.Serialization.Primitives.dll
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Runtime.Serialization.Xml.dll
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Runtime.WindowsRuntime.dll
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Security.Claims.dll
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Security.Cryptography.Algorithms.dll
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Security.Cryptography.Cng.dll
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Security.Cryptography.Encoding.dll
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Security.Cryptography.Primitives.dll
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Security.Principal.dll
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.ServiceModel.Duplex.dll
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.ServiceModel.Http.dll
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.ServiceModel.NetTcp.dll
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.ServiceModel.Primitives.dll
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.ServiceModel.Security.dll
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Text.Encoding.CodePages.dll
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Text.RegularExpressions.dll
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Threading.dll
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Threading.Overlapped.dll
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Threading.Tasks.Dataflow.dll
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Threading.Tasks.Extensions.dll
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Threading.Tasks.Parallel.dll
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Xml.ReaderWriter.dll
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Xml.XDocument.dll
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Xml.XmlDocument.dll
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\System.Xml.XmlSerializer.dll
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\bin\x86\Debug\CompressionManager.winmd
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\ILoveNotes.csprojAssemblyReference.cache
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\App.g.i.cs
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\App.g.cs
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\Controls\AboutPage.g.i.cs
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\Controls\AboutPage.g.cs
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\Controls\TagsControl.g.i.cs
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\Controls\TagsControl.g.cs
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\Controls\ToDoControl.g.i.cs
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\Controls\ToDoControl.g.cs
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\Pages\GroupedItemsPage.g.i.cs
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\Pages\GroupedItemsPage.g.cs
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\Pages\GroupDetailPage.g.i.cs
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\Pages\GroupDetailPage.g.cs
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\Pages\ItemDetailPage.g.i.cs
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\Pages\ItemDetailPage.g.cs
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\Pages\RestoreWorkingPage.g.i.cs
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\Pages\RestoreWorkingPage.g.cs
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\Pages\Splash.g.i.cs
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\Pages\Splash.g.cs
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\App.xaml
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\Common\CustomStyles.xaml
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\Controls\AboutPage.xaml
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\Controls\TagsControl.xaml
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\Controls\ToDoControl.xaml
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\Pages\GroupedItemsPage.xaml
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\Pages\GroupDetailPage.xaml
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\Pages\ItemDetailPage.xaml
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\Pages\RestoreWorkingPage.xaml
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\Pages\Splash.xaml
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\App.xbf
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\Common\CustomStyles.xbf
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\Controls\AboutPage.xbf
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\Controls\TagsControl.xbf
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\Controls\ToDoControl.xbf
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\Pages\GroupedItemsPage.xbf
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\Pages\GroupDetailPage.xbf
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\Pages\ItemDetailPage.xbf
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\Pages\RestoreWorkingPage.xbf
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\Pages\Splash.xbf
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\XamlSaveStateFile.xml
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\ILoveNotes.csproj.CoreCompileInputs.cache
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\ILoveNotes.csproj.CopyComplete
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\ILoveNotes.exe
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\ILoveNotes.pdb
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\ResourceHandlingTask.state
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\FxResources.Microsoft.CSharp.SR.resw
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\FxResources.Microsoft.VisualBasic.SR.resw
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\FxResources.System.Collections.SR.resw
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\FxResources.System.IO.SR.resw
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\FxResources.System.Runtime.InteropServices.SR.resw
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\FxResources.System.Diagnostics.Debug.SR.resw
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\FxResources.System.IO.FileSystem.SR.resw
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\FxResources.System.Net.Primitives.SR.resw
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\FxResources.System.Net.Sockets.SR.resw
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\FxResources.System.Runtime.Extensions.SR.resw
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\FxResources.System.Private.Uri.SR.resw
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\FxResources.System.Buffers.SR.resw
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\FxResources.System.Collections.Concurrent.SR.resw
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\FxResources.System.Collections.Immutable.SR.resw
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\FxResources.System.Collections.NonGeneric.SR.resw
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\FxResources.System.Collections.Specialized.SR.resw
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\FxResources.System.ComponentModel.Annotations.SR.resw
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\FxResources.System.Data.Common.SR.resw
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\FxResources.System.Dynamic.Runtime.SR.resw
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\FxResources.System.Globalization.Extensions.SR.resw
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\FxResources.System.IO.Compression.SR.resw
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\FxResources.System.IO.Compression.ZipFile.SR.resw
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\FxResources.System.IO.IsolatedStorage.SR.resw
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\FxResources.System.IO.UnmanagedMemoryStream.SR.resw
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\FxResources.System.Linq.SR.resw
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\FxResources.System.Linq.Expressions.SR.resw
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\FxResources.System.Linq.Parallel.SR.resw
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\FxResources.System.Linq.Queryable.SR.resw
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\FxResources.System.Net.Http.SR.resw
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\FxResources.System.Net.NameResolution.SR.resw
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\FxResources.System.Net.NetworkInformation.SR.resw
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\FxResources.System.Net.Requests.SR.resw
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\FxResources.System.Net.WebHeaderCollection.SR.resw
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\FxResources.System.Net.WebSockets.SR.resw
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\FxResources.System.Net.WebSockets.Client.SR.resw
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\FxResources.System.Numerics.Vectors.SR.resw
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\FxResources.System.ObjectModel.SR.resw
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\FxResources.System.Private.DataContractSerialization.SR.resw
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\FxResources.System.Private.ServiceModel.SR.resw
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\FxResources.System.Reflection.DispatchProxy.SR.resw
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\FxResources.System.Reflection.Metadata.SR.resw
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\FxResources.System.Runtime.Numerics.SR.resw
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.SR.resw
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\FxResources.System.Security.Claims.SR.resw
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\FxResources.System.Security.Cryptography.Algorithms.SR.resw
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\FxResources.System.Security.Cryptography.Cng.SR.resw
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\FxResources.System.Security.Cryptography.Encoding.SR.resw
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\FxResources.System.Security.Cryptography.Primitives.SR.resw
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\FxResources.System.Security.Cryptography.X509Certificates.SR.resw
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\FxResources.System.Text.RegularExpressions.SR.resw
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\FxResources.System.Threading.SR.resw
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\FxResources.System.Threading.Overlapped.SR.resw
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\FxResources.System.Threading.Tasks.Parallel.SR.resw
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\FxResources.System.Xml.ReaderWriter.SR.resw
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\FxResources.System.Xml.XDocument.SR.resw
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\FxResources.System.Xml.XmlDocument.SR.resw
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\FxResources.System.Xml.XmlSerializer.SR.resw
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\ILoveNotes.csproj.GenerateResource.Cache
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\priconfig.xml
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\priconfig.xml.intermediate
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\unfiltered.layout.resfiles
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\filtered.layout.resfiles
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\excluded.layout.resfiles
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\resources.resfiles
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\resources.resfiles.intermediate
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\pri.resfiles
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\pri.resfiles.intermediate
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\qualifiers.txt
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\qualifiers.txt.intermediate
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\ProjectArchitectures.txt
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\.winmd_cache\$CompressionManager.winmd_635222259077478328.json
+C:\20484-GITHUB-MFILES\UWP\Mod02\Labfiles\End\ILoveNotes\obj\x86\Debug\.winmd_cache\$NotificationsExtensions.winmd_635442449240000000.json
