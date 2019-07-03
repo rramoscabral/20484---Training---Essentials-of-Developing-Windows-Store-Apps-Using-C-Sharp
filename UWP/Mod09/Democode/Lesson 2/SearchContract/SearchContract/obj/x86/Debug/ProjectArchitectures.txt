@@ -1,0 +1,1 @@
+C:\20484-GITHUB-MFILES\UWP\Mod09\Democode\Lesson 2\SearchContract\SearchContract\SearchContract.csproj;x86

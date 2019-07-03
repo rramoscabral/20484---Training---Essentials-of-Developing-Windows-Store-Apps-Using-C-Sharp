@@ -1,0 +1,21 @@
+﻿<common:LayoutAwarePage
+    x:Class="SearchContract.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:SearchContract"
+    xmlns:common="using:SearchContract.Common" 
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{StaticResource ApplicationPageBackgroundThemeBrush}">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <!--<SearchBox PlaceholderText="Search something..." HorizontalAlignment="Right" VerticalAlignment="Center" Margin="25,15" Width="300" SuggestionsRequested="SearchBox_SuggestionsRequested" QuerySubmitted="SearchBox_QuerySubmitted"/>-->
+        <TextBlock TextWrapping="Wrap" Grid.Row="1" Text="Search Contract Demo" HorizontalAlignment="Center" VerticalAlignment="Center" Style="{StaticResource PageHeaderTextStyle}" />
+    </Grid>
+</common:LayoutAwarePage>
+
+
