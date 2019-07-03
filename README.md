@@ -63,6 +63,11 @@ All Visual Studio projects contained in this repository require the following re
 
 <br>
 
+#### Visual Studio Extensions
+
+* [Windows Template Studio (WTS) for Visual Studio 2017 and 2019](https://github.com/Microsoft/WindowsTemplateStudio)
+
+<br>
 
 #### Migrate apps from Windows Presentation Foundation (WPF) to the Universal Windows Platform (UWP)
 
