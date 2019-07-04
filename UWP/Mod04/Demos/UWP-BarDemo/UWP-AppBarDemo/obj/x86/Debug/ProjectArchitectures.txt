@@ -1,1 +1,0 @@
-C:\20484-Training---Essentials-of-Developing-Windows-Store-Apps-Using-C-Sharp\UWP\Mod04\Demos\UWP-BarDemo\UWP-AppBarDemo\UWP-AppBarAndCommandBarDemo.csproj;x86

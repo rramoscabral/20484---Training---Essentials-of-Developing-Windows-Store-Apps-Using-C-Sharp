@@ -1,1 +1,0 @@
-C:\20484-GITHUB-MFILES\UWP\Mod09\Democode\Lesson 3\ShareContract\ShareContract\ShareContract.csproj;x86
