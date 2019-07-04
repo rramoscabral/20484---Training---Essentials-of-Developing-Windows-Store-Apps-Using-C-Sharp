@@ -49,6 +49,9 @@ All Visual Studio projects contained in this repository require the following re
 
 * [WPF XAML Behaviors](https://github.com/microsoft/XamlBehaviorsWpf)
 
+* [Oficial Microsoft Windows Presentation Foundation documentation](https://docs.microsoft.com/en-us/dotnet/framework/wpf/)
+
+
 <br>
 
 #### Windows 10 Universal Windows Platform (UWP) Resources
@@ -60,6 +63,10 @@ All Visual Studio projects contained in this repository require the following re
 * [UWP XAML Behavior](https://github.com/microsoft/XamlBehaviors)
 
 * [Windows UI Library: the latest Windows 10 native controls and Fluent styles for your applications](https://github.com/microsoft/microsoft-ui-xaml)
+
+* [Oficial Microsoft Universal Windows Platform documentation](https://docs.microsoft.com/en-us/windows/uwp/)
+  * [Responsive layouts with XAML](https://docs.microsoft.com/en-us/windows/uwp/design/layout/layouts-with-xaml)
+
 
 <br>
 
@@ -81,13 +88,21 @@ All Visual Studio projects contained in this repository require the following re
 
 <br>
 
+#### Windows 8 Windows Presentation Foundation (WPF) Resources Examples
 
-#### Examples
+* [Microsoft Windows Presentation Foundation (WPF) app samples](https://github.com/Microsoft/WPF-Samples)
 
-* [Lab for modernizing Desktop app with XAML Islands.](https://github.com/microsoft/Windows-AppConsult-XAMLIslandsLab)
+<br>
+
+#### Windows 10 Universal Windows Platform (UWP) Resources Examples
+
+* [Microsoft Universal Windows Platform (UWP) app samples](https://github.com/Microsoft/Windows-universal-samples/)
+
+* [UWP Lab for modernizing Desktop app with XAML Islands.](https://github.com/microsoft/Windows-AppConsult-XAMLIslandsLab)
 
 * [UWP Windows Composition Sample using Windows.UI.Xaml and Windows.UI.Composition](https://github.com/microsoft/WindowsCompositionSamples)
 
-* [Working customer order database using Azure and XAML](https://github.com/microsoft/Windows-appsample-customers-orders-database)
+* [UWP Working customer order database using Azure and XAML](https://github.com/microsoft/Windows-appsample-customers-orders-database)
 
- * [Microsoft Universal Windows Platform (UWP) app samples](https://github.com/Microsoft/Windows-universal-samples/)
+ 
+ 
