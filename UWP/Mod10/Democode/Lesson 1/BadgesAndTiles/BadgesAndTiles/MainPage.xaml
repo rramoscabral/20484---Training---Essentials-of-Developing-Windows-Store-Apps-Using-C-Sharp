@@ -1,0 +1,42 @@
+﻿<Page
+    x:Class="BadgesAndTiles.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:BadgesAndTiles"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+    <Page.Resources>
+        <Style TargetType="TextBlock">
+            <Setter Property="FontSize" Value="40" />
+            <Setter Property="HorizontalAlignment" Value="Center" />
+        </Style>
+        <Style TargetType="Button">
+            <Setter Property="FontSize" Value="40" />
+            <Setter Property="HorizontalAlignment" Value="Center" />
+            <Setter Property="Margin" Value="5"/>
+        </Style>
+    </Page.Resources>
+
+    <Grid  Background="{StaticResource ApplicationPageBackgroundThemeBrush}">
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+            <StackPanel Orientation="Horizontal" Margin="10">
+                <TextBlock Text="Result:" Margin="5" />
+                <TextBlock Name="result" Margin="5" Foreground="Green"/>
+            </StackPanel>
+            <Button Content="Clear Tile Notification" Click="ClearTileNotification" />
+            <Button Content="Send Tile Notification" Click="SendTileNotification"/>
+            <Button Content="Notification with Image" Click="NotificationWithImage"/>
+            <TextBlock Text="Notification Queue:" Margin="5" />
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                <Button Content="Enable" Click="EnableNotificationQueue" />
+                <Button Content="Disable" Click="DisableNotificationQueue" />
+            </StackPanel>
+            <TextBlock Text="Badge:" Margin="5" />
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                <Button Content="Send" Click="SendBadgeNotification" />
+                <Button Content="Clear" Click="ClearBadgeNotification" />
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Page>

@@ -1,0 +1,1 @@
+C:\20484-GITHUB-MFILES\UWP\Mod10\Democode\Lesson 1\BadgesAndTiles\BadgesAndTiles\BadgesAndTiles.csproj;x86

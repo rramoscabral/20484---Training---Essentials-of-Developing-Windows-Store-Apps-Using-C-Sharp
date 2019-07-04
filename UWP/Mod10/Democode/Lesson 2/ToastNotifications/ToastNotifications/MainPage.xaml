@@ -1,0 +1,41 @@
+﻿<Page
+    x:Class="ToastNotifications.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:ToastNotifications"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+    <Page.Resources>
+        <Style TargetType="TextBlock">
+            <Setter Property="FontSize" Value="40" />
+            <Setter Property="HorizontalAlignment" Value="Center" />
+        </Style>
+        <Style TargetType="Button">
+            <Setter Property="FontSize" Value="40" />
+            <Setter Property="HorizontalAlignment" Value="Center" />
+            <Setter Property="Margin" Value="5"/>
+        </Style>
+    </Page.Resources>
+
+    <Grid  Background="{StaticResource ApplicationPageBackgroundThemeBrush}">
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+            <StackPanel Orientation="Horizontal" Margin="10">
+                <TextBlock Text="Result:" Margin="5" />
+                <TextBlock Name="result" Margin="5" Foreground="Green"/>
+            </StackPanel>
+            <Button Content="Text Toast Notification" Click="TextToastNotification" />
+            <Button Content="Image Toast Notification" Click="ImageToastNotification"/>
+            <TextBlock Text="Sound:" Margin="5" />
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                <Button Content="Silent" Click="SilentToastNotification" />
+                <Button Content="Notification.Reminder" Click="ReminderToastNotification" />
+            </StackPanel>
+            <TextBlock Text="Toast Events:" Margin="5" />
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                <Button Content="Show Toast" Click="ShowToastNotification" />
+                <Button Content="Hide Toast" Click="HideToastNotification" />
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Page>
