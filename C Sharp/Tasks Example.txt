@@ -1,0 +1,22 @@
+private async void button_Click ( object sender, RoutedEvent Args)
+{
+	 label.Content= "Iniciar async";
+	 string s = await RealizarTarefa();
+	 label.Content= s;
+}
+
+private async Task<string> RealizarTarefa(){
+	 Task<string> t = Task.Run(() => TrabalhoAtual(2000));
+	 string ret = await t;
+	 return ret;
+}
+
+private string TrabalhoAtual( int sleep)
+{
+ 	  // A realizar o trabalho atual
+
+      // Task<TResult>.Result Property
+	  // Gets the result value of this Task<TResult>.
+
+     return "Trabalho do async finalizado";
+}
