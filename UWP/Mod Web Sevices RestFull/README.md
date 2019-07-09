@@ -34,11 +34,13 @@ A demostração é composta com dois projetos e ambos utilizam REST.
 
 #####  **Exemplo de um documento Json**
 
-{
+```json
+ {
   "ID":"5",
   "Name":" Teste 001",
   "Email":"001@test.test"
 }
+```
 
  ##### **Métodos do Web Service**
 
