@@ -1,0 +1,30 @@
+﻿<Page
+    x:Class="UWPRestFullClient.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:UWPRestFullClient"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid VerticalAlignment="Center" HorizontalAlignment="Center">
+        <StackPanel>
+            <TextBlock  FontSize="15" Width="430" Text="Endereço do servidor. Por exemplo https://localhost:13758" TextAlignment="Center" Foreground="Green" FontWeight="Bold"/>
+            <TextBox x:Name="uriServer" FontSize="15" Width="430" PlaceholderText="Endereço do servidor. Por exemplo https://localhost:13758" TextAlignment="Center" />
+        </StackPanel>
+    </Grid>
+
+    <Page.BottomAppBar>
+        <CommandBar>
+            <CommandBar.Content>
+                <Grid/>
+            </CommandBar.Content>
+            <AppBarButton Icon="Contact" Label="Obter Registos" Click="GetAllPearsons_Click" />
+            <AppBarButton Icon="AddFriend" Label="Inserir Pessoa" Click="AddPearson_Click"/>
+            <AppBarButton Icon="ContactInfo" Label="Atualizar Pessoa" Click="UpdatePearson_Click"/>
+            <AppBarButton Icon="Remove" Label="Remover Pessoa" Click="RemovePearson_Click"/>
+        </CommandBar>
+    </Page.BottomAppBar>
+    
+</Page>

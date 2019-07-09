@@ -1,0 +1,57 @@
+﻿<Page
+    x:Class="UWPRestFullClient.Views.UpdatePearson"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:UWPRestFullClient.Views"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid VerticalAlignment="Center" HorizontalAlignment="Center">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto" />
+            <ColumnDefinition Width="Auto" />
+            <ColumnDefinition Width="Auto" />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+
+        <ListView Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2" 
+                  x:Name="ListViewPearsons" 
+                  ItemClick="ListViewPearsons_ItemClick" 
+                  SelectionChanged="ListViewPearsons_SelectionChanged">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Text="{Binding ID}" Margin="10" />
+                        <TextBlock Text="{Binding Name}" Margin="10" />
+                        <TextBlock Text="{Binding Email}" Margin="10" />
+                    </StackPanel>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+
+
+        <TextBlock Grid.Row="1" Grid.Column="0" Text="ID:" FontSize="15" />
+        <TextBox Grid.Row="1" Grid.Column="1" x:Name="tBID" FontSize="15" TextAlignment="Center" Width="250"
+                 IsEnabled="false" Background="White"/>
+        <TextBlock Grid.Row="2" Grid.Column="0" Text="Nome:" FontSize="15" />
+        <TextBox Grid.Row="2" Grid.Column="1"  x:Name="tBName"  FontSize="15" TextAlignment="Center"  Width="250"/>
+        <TextBlock Grid.Row="3" Grid.Column="0"  Text="E-Mail:" FontSize="15" />
+        <TextBox Grid.Row="3" Grid.Column="1" x:Name="tBEmail" FontSize="15" TextAlignment="Center"  Width="250" />
+        <Button Grid.Row="4"  Grid.Column="0" Grid.ColumnSpan="2" Content="Atualizar registo"  FontSize="15" HorizontalAlignment="Center" Click="Button_Click_UpdatePearson" />
+        <Button Grid.Row="5"  Grid.Column="0" Grid.ColumnSpan="2" Content="Atualizar registo com Newtonsoft"  FontSize="15" HorizontalAlignment="Center" Click="Button_Click_UpdatePearsonNewtonsoft" />
+        <Button Grid.Row="6" Grid.Column="0"  Grid.ColumnSpan="2" Content="Voltar"  FontSize="15" HorizontalAlignment="Center" Click="Button_Click_Back"/>
+        <TextBlock Grid.Row="7" Grid.Column="0"  Grid.ColumnSpan="2" x:Name="tbResult" FontSize="15" TextWrapping="Wrap" Width="350" Height="200" HorizontalAlignment="Center" />
+    </Grid>
+
+</Page>
