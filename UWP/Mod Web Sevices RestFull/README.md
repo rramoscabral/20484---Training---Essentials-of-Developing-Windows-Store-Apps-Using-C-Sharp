@@ -7,15 +7,18 @@ Há dois protocolos de comunicações utilizados:
  * Representational State Transfer (REST), que utiliza JSON para enviar e receber mensagens.
 
 
-# Demostração
+### Demostração
 A demostração é composta com dois projetos e ambos utilizam REST.
- * ASPDotNETCoreRESTFulWS
+
+ * **ASPDotNETCoreRESTFulWS**
    * Baseado no StudentRegistrationDemo3 do Abhijit Pritam Dutta (https://github.com/prateekparallel/StudentRegistrationDemo3)
    * Framework: Dot Net Core 2.1
    * IIS Express 
    * App URL: http://localhost:13758
 
- * UWPRestFullClient
+</br>
+
+ * **UWPRestFullClient**
    * References:
       * Microsoft.NETCore.UniversalWindowsPlatform
 	  * Newtonsoft.JsonResult
@@ -23,11 +26,13 @@ A demostração é composta com dois projetos e ambos utilizam REST.
 	  * Windows Desktop Extensions for the UWP
    
    
+</br>
+</br>
 
-### ASPDotNETCoreRESTFulWS
+#### **ASPDotNETCoreRESTFulWS**
 
 
-####  Exemplo de um documento Json
+#####  **Exemplo de um documento Json**
 
 {
   "ID":"5",
@@ -35,23 +40,28 @@ A demostração é composta com dois projetos e ambos utilizam REST.
   "Email":"001@test.test"
 }
 
- #### Métodos do Web Service
+ ##### **Métodos do Web Service**
 
 Obter uma lista de todas as pessoas
  * Método HTTP: GET
  * Recurso: /api/pearsonretrive
  * Media Type: application/json
 
+</br>
+
 Registar uma pessoa
  * Método HTTP:  POST
  * Recurso: /api/pearsonregistration/InsertPearson
  * Media Type: application/json
+
+</br>
 
 Atualizar o registo de uma pessoa 
  * Método HTTP:   PUT
  * Recurso:  /api/pearsonupdate
  * Media Type: application/json
 
+</br>
 
 Remover um registo de uma pessoa
  * Método HTTP: DELETE
@@ -59,8 +69,10 @@ Remover um registo de uma pessoa
  * Parametro do recurso: ID 
  * Media Type: application/json
 
+</br>
+</br>
 
+#### **UWPRestFullClient**
 
-### UWPRestFullClient
+Foram aplicados alguns componentes do curso. Por exemplo UI, Tasks, Binding e outros.
 
-Estão aplicados componentes do curso. Por exemplo UI, Tasks, Binding e outros.
