@@ -31,8 +31,7 @@ A demostração é composta com dois projetos e ambos utilizam REST.
 
 #### **ASPDotNETCoreRESTFulWS**
 
-
-#####  **Exemplo de um documento Json**
+**Exemplo de um documento Json**
 
 ```json
  {
@@ -42,7 +41,7 @@ A demostração é composta com dois projetos e ambos utilizam REST.
 }
 ```
 
- ##### **Métodos do Web Service**
+**Métodos do Web Service**
 
 Obter uma lista de todas as pessoas
  * Método HTTP: GET
