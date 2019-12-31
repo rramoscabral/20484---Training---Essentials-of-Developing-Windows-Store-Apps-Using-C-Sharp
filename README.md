@@ -1,5 +1,5 @@
-# 20484 Training - Essentials of Developing Windows Store Apps Using C#
-20484 Training for Microsoft Official Course (MOC) 20484 - Essentials of Developing Windows Store Apps Using C#
+# 20484 - Training - Essentials of Developing Windows Store Apps Using C#
+Training for Microsoft Official Course (MOC) 20484 - Essentials of Developing Windows Store Apps Using C#
 
 <br>
 
